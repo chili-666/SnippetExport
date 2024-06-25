@@ -1,13 +1,80 @@
 {
-  "vaultName": "Snippets",
-  "lastExport": 1719231567068,
+  "vaultName": "CodeDump",
+  "lastExport": 1719237759517,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager show-inline-title show-ribbon theme-dark",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
+    "Attachements/canyon-8124036_1280.webp",
+    "Attachements/Pasted image 20240624160203.jpg",
+    "Recipes/cookbook.md",
+    "Recipes/Spaghetti al limone.md",
+    "Snippets/code_snippets/Shopware/Dump Variables TWIG.md",
+    "Snippets/code_snippets/hide_button_google_maps.md",
+    "Snippets/Linux/Symlink erstellen.md",
+    "Snippets/Linux/Tar entpacken.md",
+    "Snippets/Linux/TAR packen.md",
+    "Snippets/Projekte/1316_binder_jewellery.md",
+    "Snippets/Projekte/1428_Import",
+    "Snippets/Projekte/1835_Diehl_EasySoft.md",
+    "Snippets/Projekte/1885_dr_maroske.md",
+    "Snippets/typo3/Bild in Backend einfügen.md",
+    "Snippets/typo3/Debug.md",
+    "Snippets/typo3/How to setup a bootstrap_package based.md",
+    "Snippets/typo3/Typo3 Felder dazu basteln.md",
+    "Snippets/wordpress/shortcodes/get_latest_posts_from_cat.md",
+    "Snippets/wordpress/shortcodes/get_posts_without_cat.md",
+    "Snippets/wordpress/shortcodes/list_children_of_taxonomy.md",
+    "Snippets/wordpress/WooCommerce/Add  product attributes to email.md",
+    "Snippets/wordpress/WooCommerce/Add fields to check out.md",
+    "Snippets/wordpress/WooCommerce/Add link to change product before cart.md",
+    "Snippets/wordpress/WooCommerce/add new role for customers.md",
+    "Snippets/wordpress/WooCommerce/Add prefix to variant prices.md",
+    "Snippets/wordpress/WooCommerce/Add price suffix.md",
+    "Snippets/wordpress/WooCommerce/add rights to shop manager.md",
+    "Snippets/wordpress/WooCommerce/Add text before chjeckout form.md",
+    "Snippets/wordpress/WooCommerce/Add text to new order email.md",
+    "Snippets/wordpress/WooCommerce/Add text to thank-you page.md",
+    "Snippets/wordpress/WooCommerce/Change maximum products in api.md",
+    "Snippets/wordpress/WooCommerce/Change not in stock text.md",
+    "Snippets/wordpress/WooCommerce/Change order of table in checkout.md",
+    "Snippets/wordpress/WooCommerce/change payment based on roles.md",
+    "Snippets/wordpress/WooCommerce/change shipping costs based on roles.md",
+    "Snippets/wordpress/WooCommerce/Change shipping name.md",
+    "Snippets/wordpress/WooCommerce/Check if product is already in cart.md",
+    "Snippets/wordpress/WooCommerce/Clear cart by$_GET.md",
+    "Snippets/wordpress/WooCommerce/Disable WooCommerce sidebar.md",
+    "Snippets/wordpress/WooCommerce/display product variation in archive.md",
+    "Snippets/wordpress/WooCommerce/Display specific product attributes in cart items on cart and checkout pages.md",
+    "Snippets/wordpress/WooCommerce/Germanized Change Labels.md",
+    "Snippets/wordpress/WooCommerce/Germanized_add_shortcode_to_invoice.md",
+    "Snippets/wordpress/WooCommerce/Installation",
+    "Snippets/wordpress/WooCommerce/Reduce password strength.md",
+    "Snippets/wordpress/WooCommerce/Remove field from checkout.md",
+    "Snippets/wordpress/WooCommerce/Remove link top attribute archive.md",
+    "Snippets/wordpress/WooCommerce/Rename check-out button.md",
+    "Snippets/wordpress/WooCommerce/Rename Home in Breadcrumb.md",
+    "Snippets/wordpress/WooCommerce/Replace Check-out fields.md",
+    "Snippets/wordpress/WooCommerce/Replace product-img alt-tag.md",
+    "Snippets/wordpress/Cors Header für iframe setzen.md",
+    "Snippets/wordpress/Elementor Fonts nicht nachladen.md",
+    "Snippets/wordpress/Filter für Posts.md",
+    "Snippets/wordpress/Frameworks.md",
+    "Snippets/wordpress/Future Posts.md",
+    "Snippets/wordpress/woocommerce.md",
+    "Snippets/wordpress/wordpess.md",
+    "Snippets/wordpress/Yoast SEO Änderungen an schema.org.md",
+    "Snippets/wordpress/Yoast SEO schön Ausgabe von schema.org.md",
+    "Snippets/wordpress/Yoast Title holen.md",
+    "Snippets/Linux.md",
+    "Snippets/Shopware SQL.md",
+    "Snippets/shortcuts.md",
+    "Snippets/Show and Filter PostType.md",
+    "Templates/Rezept.md",
     "2024-06-24.md",
     "index.md",
+    "Pasted image 20240624154929.jpg",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -35,9 +102,11 @@
     "lib/media/favicon.png",
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css"
+    "lib/styles/main-styles.css",
+    "lib/media/pasted-image-20240624160203.jpg"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -67,6 +136,7 @@
     "lib/media/favicon.png",
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/main-styles.css"
@@ -85,183 +155,599 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1719231567068,
+      "modifiedTime": 1719237759517,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1719231567068,
+      "modifiedTime": 1719237759517,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1719231567068,
+      "modifiedTime": 1719237759517,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1719231567068,
+      "modifiedTime": 1719237759517,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1719231567068,
+      "modifiedTime": 1719237759517,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1719231567068,
+      "modifiedTime": 1719237759517,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1719231567068,
+      "modifiedTime": 1719237759517,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1719231567068,
+      "modifiedTime": 1719237759517,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1719231567068,
+      "modifiedTime": 1719237759517,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1719231567068,
+      "modifiedTime": 1719237759517,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1719231567068,
+      "modifiedTime": 1719237759517,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1719231567068,
+      "modifiedTime": 1719237759517,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1719231567068,
+      "modifiedTime": 1719237759517,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1719231567068,
+      "modifiedTime": 1719237759517,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1719231567068,
+      "modifiedTime": 1719237759517,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1719231567068,
+      "modifiedTime": 1719237759517,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1719231567068,
-      "sourceSize": 2038,
+      "modifiedTime": 1719237759517,
+      "sourceSize": 65409,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1719231567068,
+      "modifiedTime": 1719237759517,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1719231567068,
+      "modifiedTime": 1719237759517,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1719231567068,
+      "modifiedTime": 1719237759517,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1719231567068,
+      "modifiedTime": 1719237759517,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1719231567068,
+      "modifiedTime": 1719237759517,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1719231567068,
+      "modifiedTime": 1719237759517,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1719231567068,
+      "modifiedTime": 1719237759517,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1719231567068,
+      "modifiedTime": 1719237759517,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1719231567068,
-      "sourceSize": 302,
+      "modifiedTime": 1719237759517,
+      "sourceSize": 6426,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1719231567068,
+      "modifiedTime": 1719237759517,
       "sourceSize": 130183,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1719231567068,
+      "modifiedTime": 1719237759517,
       "sourceSize": 41426,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1719231567068,
+      "modifiedTime": 1719237759517,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1719231567068,
+      "modifiedTime": 1719237759517,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "Snippets/code_snippets/Shopware/Dump Variables TWIG.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 115,
+      "exportedPath": "snippets/code_snippets/shopware/dump-variables-twig.html",
+      "dependencies": []
+    },
+    "Snippets/code_snippets/hide_button_google_maps.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 3387,
+      "exportedPath": "snippets/code_snippets/hide_button_google_maps.html",
+      "dependencies": []
+    },
+    "Snippets/Linux/Symlink erstellen.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 76,
+      "exportedPath": "snippets/linux/symlink-erstellen.html",
+      "dependencies": []
+    },
+    "Snippets/Linux/Tar entpacken.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 71,
+      "exportedPath": "snippets/linux/tar-entpacken.html",
+      "dependencies": []
+    },
+    "Snippets/Linux/TAR packen.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 87,
+      "exportedPath": "snippets/linux/tar-packen.html",
+      "dependencies": []
+    },
+    "Snippets/Projekte/1316_binder_jewellery.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 257,
+      "exportedPath": "snippets/projekte/1316_binder_jewellery.html",
+      "dependencies": []
+    },
+    "Snippets/Projekte/1428_Import": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 803,
+      "exportedPath": "snippets/projekte/1428_import/1428_import.",
+      "dependencies": []
+    },
+    "Snippets/Projekte/1835_Diehl_EasySoft.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 551,
+      "exportedPath": "snippets/projekte/1835_diehl_easysoft.html",
+      "dependencies": []
+    },
+    "Snippets/Projekte/1885_dr_maroske.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 260,
+      "exportedPath": "snippets/projekte/1885_dr_maroske.html",
+      "dependencies": []
+    },
+    "Snippets/typo3/Bild in Backend einfügen.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 687,
+      "exportedPath": "snippets/typo3/bild-in-backend-einfügen.html",
+      "dependencies": []
+    },
+    "Snippets/typo3/Debug.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 89,
+      "exportedPath": "snippets/typo3/debug.html",
+      "dependencies": []
+    },
+    "Snippets/typo3/How to setup a bootstrap_package based.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 8725,
+      "exportedPath": "snippets/typo3/how-to-setup-a-bootstrap_package-based.html",
+      "dependencies": []
+    },
+    "Snippets/typo3/Typo3 Felder dazu basteln.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 10746,
+      "exportedPath": "snippets/typo3/typo3-felder-dazu-basteln.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/shortcodes/get_latest_posts_from_cat.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 2424,
+      "exportedPath": "snippets/wordpress/shortcodes/get_latest_posts_from_cat.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/shortcodes/get_posts_without_cat.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 3019,
+      "exportedPath": "snippets/wordpress/shortcodes/get_posts_without_cat.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/shortcodes/list_children_of_taxonomy.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 879,
+      "exportedPath": "snippets/wordpress/shortcodes/list_children_of_taxonomy.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/WooCommerce/Add  product attributes to email.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 816,
+      "exportedPath": "snippets/wordpress/woocommerce/add-product-attributes-to-email.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/WooCommerce/Add fields to check out.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 1270,
+      "exportedPath": "snippets/wordpress/woocommerce/add-fields-to-check-out.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/WooCommerce/Add link to change product before cart.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 1468,
+      "exportedPath": "snippets/wordpress/woocommerce/add-link-to-change-product-before-cart.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/WooCommerce/add new role for customers.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 353,
+      "exportedPath": "snippets/wordpress/woocommerce/add-new-role-for-customers.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/WooCommerce/Add prefix to variant prices.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 957,
+      "exportedPath": "snippets/wordpress/woocommerce/add-prefix-to-variant-prices.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/WooCommerce/Add price suffix.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 711,
+      "exportedPath": "snippets/wordpress/woocommerce/add-price-suffix.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/WooCommerce/add rights to shop manager.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 463,
+      "exportedPath": "snippets/wordpress/woocommerce/add-rights-to-shop-manager.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/WooCommerce/Add text before chjeckout form.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 310,
+      "exportedPath": "snippets/wordpress/woocommerce/add-text-before-chjeckout-form.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/WooCommerce/Add text to new order email.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 273,
+      "exportedPath": "snippets/wordpress/woocommerce/add-text-to-new-order-email.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/WooCommerce/Add text to thank-you page.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 335,
+      "exportedPath": "snippets/wordpress/woocommerce/add-text-to-thank-you-page.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/WooCommerce/Change maximum products in api.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 299,
+      "exportedPath": "snippets/wordpress/woocommerce/change-maximum-products-in-api.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/WooCommerce/Change not in stock text.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 295,
+      "exportedPath": "snippets/wordpress/woocommerce/change-not-in-stock-text.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/WooCommerce/Change order of table in checkout.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 876,
+      "exportedPath": "snippets/wordpress/woocommerce/change-order-of-table-in-checkout.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/WooCommerce/change payment based on roles.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 537,
+      "exportedPath": "snippets/wordpress/woocommerce/change-payment-based-on-roles.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/WooCommerce/change shipping costs based on roles.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 439,
+      "exportedPath": "snippets/wordpress/woocommerce/change-shipping-costs-based-on-roles.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/WooCommerce/Change shipping name.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 436,
+      "exportedPath": "snippets/wordpress/woocommerce/change-shipping-name.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/WooCommerce/Check if product is already in cart.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 834,
+      "exportedPath": "snippets/wordpress/woocommerce/check-if-product-is-already-in-cart.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/WooCommerce/Clear cart by$_GET.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 223,
+      "exportedPath": "snippets/wordpress/woocommerce/clear-cart-by$_get.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/WooCommerce/Disable WooCommerce sidebar.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 180,
+      "exportedPath": "snippets/wordpress/woocommerce/disable-woocommerce-sidebar.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/WooCommerce/display product variation in archive.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 4404,
+      "exportedPath": "snippets/wordpress/woocommerce/display-product-variation-in-archive.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/WooCommerce/Display specific product attributes in cart items on cart and checkout pages.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 916,
+      "exportedPath": "snippets/wordpress/woocommerce/display-specific-product-attributes-in-cart-items-on-cart-and-checkout-pages.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/WooCommerce/Germanized Change Labels.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 390,
+      "exportedPath": "snippets/wordpress/woocommerce/germanized-change-labels.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/WooCommerce/Germanized_add_shortcode_to_invoice.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 1585,
+      "exportedPath": "snippets/wordpress/woocommerce/germanized_add_shortcode_to_invoice.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/WooCommerce/Installation": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 324,
+      "exportedPath": "snippets/wordpress/woocommerce/installation/installation.",
+      "dependencies": []
+    },
+    "Snippets/wordpress/WooCommerce/Reduce password strength.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 342,
+      "exportedPath": "snippets/wordpress/woocommerce/reduce-password-strength.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/WooCommerce/Remove field from checkout.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 275,
+      "exportedPath": "snippets/wordpress/woocommerce/remove-field-from-checkout.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/WooCommerce/Remove link top attribute archive.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 270,
+      "exportedPath": "snippets/wordpress/woocommerce/remove-link-top-attribute-archive.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/WooCommerce/Rename check-out button.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 347,
+      "exportedPath": "snippets/wordpress/woocommerce/rename-check-out-button.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/WooCommerce/Rename Home in Breadcrumb.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 328,
+      "exportedPath": "snippets/wordpress/woocommerce/rename-home-in-breadcrumb.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/WooCommerce/Replace Check-out fields.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 437,
+      "exportedPath": "snippets/wordpress/woocommerce/replace-check-out-fields.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/WooCommerce/Replace product-img alt-tag.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 367,
+      "exportedPath": "snippets/wordpress/woocommerce/replace-product-img-alt-tag.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/Cors Header für iframe setzen.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 520,
+      "exportedPath": "snippets/wordpress/cors-header-für-iframe-setzen.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/Elementor Fonts nicht nachladen.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 243,
+      "exportedPath": "snippets/wordpress/elementor-fonts-nicht-nachladen.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/Filter für Posts.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 3318,
+      "exportedPath": "snippets/wordpress/filter-für-posts.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/Frameworks.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 146,
+      "exportedPath": "snippets/wordpress/frameworks.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/Future Posts.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 409,
+      "exportedPath": "snippets/wordpress/future-posts.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/woocommerce.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 1076,
+      "exportedPath": "snippets/wordpress/woocommerce.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/wordpess.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 278,
+      "exportedPath": "snippets/wordpress/wordpess.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/Yoast SEO Änderungen an schema.org.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 533,
+      "exportedPath": "snippets/wordpress/yoast-seo-änderungen-an-schema.org.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/Yoast SEO schön Ausgabe von schema.org.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 155,
+      "exportedPath": "snippets/wordpress/yoast-seo-schön-ausgabe-von-schema.org.html",
+      "dependencies": []
+    },
+    "Snippets/wordpress/Yoast Title holen.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 529,
+      "exportedPath": "snippets/wordpress/yoast-title-holen.html",
+      "dependencies": []
+    },
+    "Snippets/Linux.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 0,
+      "exportedPath": "snippets/linux.html",
+      "dependencies": []
+    },
+    "Snippets/Shopware SQL.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 8384,
+      "exportedPath": "snippets/shopware-sql.html",
+      "dependencies": []
+    },
+    "Snippets/shortcuts.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 220,
+      "exportedPath": "snippets/shortcuts.html",
+      "dependencies": []
+    },
+    "Snippets/Show and Filter PostType.md": {
+      "modifiedTime": 1719232533432,
+      "sourceSize": 4652,
+      "exportedPath": "snippets/show-and-filter-posttype.html",
+      "dependencies": []
+    },
+    "Recipes/cookbook.md": {
+      "modifiedTime": 1719235949021,
+      "sourceSize": 44,
+      "exportedPath": "recipes/cookbook.html",
+      "dependencies": []
+    },
+    "Recipes/Spaghetti al limone.md": {
+      "modifiedTime": 1719237733402,
+      "sourceSize": 1001,
+      "exportedPath": "recipes/spaghetti-al-limone.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240624160203.jpg"
+      ]
+    },
+    "Templates/Rezept.md": {
+      "modifiedTime": 1719235949021,
+      "sourceSize": 155,
+      "exportedPath": "templates/rezept.html",
+      "dependencies": []
+    },
+    "Pasted image 20240624154929.jpg": {
+      "modifiedTime": 1719236976904,
+      "sourceSize": 12993,
+      "exportedPath": "pasted-image-20240624154929.jpg",
+      "dependencies": []
+    },
+    "Attachements/canyon-8124036_1280.webp": {
+      "modifiedTime": 1719237260931,
+      "sourceSize": 292294,
+      "exportedPath": "attachements/canyon-8124036_1280.webp",
+      "dependencies": []
+    },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1719237759517,
+      "sourceSize": 2104,
+      "exportedPath": "lib/styles/other-plugins.css",
+      "dependencies": []
+    },
+    "Attachements/Pasted image 20240624160203.jpg": {
+      "modifiedTime": 1719237733402,
+      "sourceSize": 115590,
+      "exportedPath": "attachements/pasted-image-20240624160203.jpg",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240624160203.jpg": {
+      "modifiedTime": 1719237733402,
+      "sourceSize": 115590,
+      "exportedPath": "lib/media/pasted-image-20240624160203.jpg",
       "dependencies": []
     }
   }

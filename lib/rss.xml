@@ -1,4 +1,1602 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Snippets]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Snippets</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 24 Jun 2024 12:19:27 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 24 Jun 2024 12:19:27 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Hallo]]></title><description><![CDATA[<a class="tag" href="?query=tag:tag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#tag</a> <a class="tag" href="?query=tag:noechtintag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#noechtintag</a> 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CodeDump]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://mein-kleines-einhorn.de/</link><image><url>https://mein-kleines-einhorn.de/lib/media/favicon.png</url><title>CodeDump</title><link>https://mein-kleines-einhorn.de/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 24 Jun 2024 14:02:39 GMT</lastBuildDate><atom:link href="https://mein-kleines-einhorn.de/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 24 Jun 2024 14:02:39 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Spaghetti al limone]]></title><description><![CDATA[<a class="tag" href="https://mein-kleines-einhorn.de/?query=tag:ingredients" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ingredients</a> 
+ <br><br>
+Notes: 
+<br><br><a href="https://mein-kleines-einhorn.de?query=tag:ingredients" class="tag" target="_blank" rel="noopener">#ingredients</a> <br>
+<br>Abrieb von einer Zitrone
+<br>Saft von 1 Zitrone
+<br>80g Parmesan
+<br>2 EL Creme Fraiche
+<br>1 Handvoll Petersilie
+<br>1 Handvoll Rucola
+<br>2 EL Olivenöl
+<br>1 Ei
+<br>Salz &amp; Pfeffer<br>
+<img alt="Pasted image 20240624160203.jpg" src="https://mein-kleines-einhorn.de/lib/media/pasted-image-20240624160203.jpg">
+<br><br><br><br><br>Reichlich Wasser mit ordentlich Salz zum Kochen bringen. Zitrone heiss abwaschen und Schale abreiben. Zitrone auspressen. Zitrone, Zitronensaft und die restlichen Zutaten (ausser dem Rucola) mit dem Stabmixer pürieren. Rucola grob hacken.<br>Wenn die Nudeln al dente sind abgiessen. <br><br>Die Nudeln kurz abtropfen lassen und dann wieder zurück in den Topf. Soße dazu geben und kräftig umrühren bis die Soße etwas anzieht. Rucola unterheben und sofort servieren.]]></description><link>https://mein-kleines-einhorn.de/recipes/spaghetti-al-limone.html</link><guid isPermaLink="false">Recipes/Spaghetti al limone.md</guid><pubDate>Mon, 24 Jun 2024 14:02:05 GMT</pubDate><enclosure url="https://mein-kleines-einhorn.de/lib/media/pasted-image-20240624160203.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="https://mein-kleines-einhorn.de/lib/media/pasted-image-20240624160203.jpg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[cookbook]]></title><description><![CDATA[ 
+ <br><br><br>]]></description><link>recipes\cookbook.html</link><guid isPermaLink="false">Recipes/cookbook.md</guid><pubDate>Mon, 24 Jun 2024 12:57:38 GMT</pubDate></item><item><title><![CDATA[Rezept]]></title><description><![CDATA[<a class="tag" href="?query=tag:ingredients" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ingredients</a> 
+ <br><br>
+Notes: 
+<br><br><a href=".?query=tag:ingredients" class="tag" target="_blank" rel="noopener">#ingredients</a> <br>
+<br>
+
+
+<br><br><br><br><br>]]></description><link>templates\rezept.html</link><guid isPermaLink="false">Templates/Rezept.md</guid><pubDate>Mon, 24 Jun 2024 12:47:05 GMT</pubDate></item><item><title><![CDATA[Dump Variables TWIG]]></title><description><![CDATA[<a class="tag" href="?query=tag:twig" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#twig</a> <a class="tag" href="?query=tag:shopware" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#shopware</a> 
+ <br><br>{{ dump() }}
+
+oder
+
+{{ dump(_context|keys) }}
+Kopieren<br><br><a href=".?query=tag:twig" class="tag" target="_blank" rel="noopener">#twig</a><br>
+<a href=".?query=tag:shopware" class="tag" target="_blank" rel="noopener">#shopware</a><br>
+<a data-href="link" href="link" class="internal-link" target="_self" rel="noopener">link</a>]]></description><link>snippets\code_snippets\shopware\dump-variables-twig.html</link><guid isPermaLink="false">Snippets/code_snippets/Shopware/Dump Variables TWIG.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[hide button google maps]]></title><description><![CDATA[<a class="tag" href="?query=tag:google" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#google</a> <a class="tag" href="?query=tag:maps" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#maps</a> 
+ <br><br>Button zum verstecken von Google Maps.<br>Anpassen:<br>
+<br>gegebenenfalls CSS
+<br>API-Key in .loadScript-Befehl
+<br>MapPin sowie Daten für Marker
+<br><br>&lt;div id="map_canvas" class="bg-light d-flex align-items-center justify-content-center"&gt;
+				&lt;style&gt;
+					:root {
+						--primary: #006645;
+					}
+					.text-primary {
+						color: var(--primary) !important;
+					}
+					.btn-primary {
+						background: transparent;
+						border: 2px solid var(--primary);
+						color: var(--primary);
+						text-transform: uppercase;
+						padding: 10px 15px;
+						border-radius: 0;
+					}
+					.btn-primary:hover {
+						background: var(--primary);
+						border-color: transparent;
+						color: var(--white);
+					}
+				&lt;/style&gt;
+				&lt;div class="text-center w-100 p-4"&gt;
+					&lt;p class="text-primary"&gt;An dieser Stelle wird eine Karte von GoogleMaps geladen. Dabei werden Daten an Google übermittelt.&lt;/p&gt;
+					&lt;button class="btn btn-primary my-4" id="show-map"&gt;Google Maps laden&lt;/button&gt;
+					&lt;p&gt;Es wird ein Cookie gesetzt, so dass ein einmaliger Klick genügt. Das Cookie wird beim Schliessen des Browsers gelöscht.&lt;/p&gt;
+				&lt;/div&gt;
+&lt;/div&gt;
+Kopieren<br><br>$(document).ready(function(){
+
+	//JQuery load script function - loads maps-script and calls showMap() when script is loaded
+	jQuery.loadScript = function (url, callback) {
+		jQuery.ajax({
+			url: url,
+			dataType: 'script',
+			success: callback,
+			async: true
+		});
+	}
+
+	if (getCookie('gmaps') == 'yes') {
+		if (typeof someObject == 'undefined') $.loadScript('https://maps.google.com/maps/api/js?key=AIzaSyAtL0gCWVVrTCddSSy4A0IdHukOS_RTG9Y', function(){
+			showMap();
+		})
+	}
+	$('#show-map').click(function() {
+		document.cookie = "gmaps = yes";
+		if (typeof someObject == 'undefined') $.loadScript('https://maps.google.com/maps/api/js?key=AIzaSyAtL0gCWVVrTCddSSy4A0IdHukOS_RTG9Y', function(){
+			showMap();
+		})
+	});
+
+
+
+
+	//showMap() shows the map, if maps script is loaded
+	function showMap() {
+		var latlng = new google.maps.LatLng(50.1877076, 8.587860399999954);
+
+		var myOptions = {
+			zoom: 17,
+			center: latlng,
+			mapTypeId: google.maps.MapTypeId.ROADMAP,
+			styles: _app.mapStyle
+		};
+
+
+		var map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+
+		var image = '../bilder/navigat/kartenpin.png';
+		var marker = new google.maps.Marker({
+			title:"VOGT &amp; SOMMER GmbH",
+			icon: image,
+			map: map,
+			place: {
+				location: latlng,
+				placeId: 'ChIJJ5hAw6HhvkcRaj5gn0QGLjM'
+			}
+
+		});
+
+
+		var contentString = '&lt;div id="Tooltip"&gt;'+
+			'&lt;h1&gt;VOGT &amp; SOMMER GmbH&lt;/h1&gt;'+
+			'&lt;p&gt;In den Schwarzwiesen 23&lt;br&gt;'+
+			'61440 Oberursel&lt;/p&gt;'+
+			'&lt;/div&gt;';
+
+		var infowindow = new google.maps.InfoWindow({
+			content: contentString
+		});
+
+		marker.addListener('click', function() {
+			infowindow.open(map, marker);
+		});
+	}
+
+
+	//sets cookie, so maps is loaded everytime the page is visited. Cookie deletes if browser is closed.
+	function getCookie(cname) {
+		let name = cname + "=";
+		let decodedCookie = decodeURIComponent(document.cookie);
+		let ca = decodedCookie.split(';');
+		for(let i = 0; i &lt;ca.length; i++) {
+			let c = ca[i];
+			while (c.charAt(0) == ' ') {
+				c = c.substring(1);
+			}
+			if (c.indexOf(name) == 0) {
+				return c.substring(name.length, c.length);
+			}
+		}
+		return "";
+	}
+
+});
+
+Kopieren<br><br><a href=".?query=tag:google" class="tag" target="_blank" rel="noopener">#google</a><br>
+<a href=".?query=tag:maps" class="tag" target="_blank" rel="noopener">#maps</a><br>
+<a data-href="link" href="link" class="internal-link" target="_self" rel="noopener">link</a>]]></description><link>snippets\code_snippets\hide_button_google_maps.html</link><guid isPermaLink="false">Snippets/code_snippets/hide_button_google_maps.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Symlink erstellen]]></title><description><![CDATA[<a class="tag" href="?query=tag:linux" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#linux</a> 
+ <br><br>ln -s ZIEL LINKDATEI
+Kopieren<br><br><a href=".?query=tag:linux" class="tag" target="_blank" rel="noopener">#linux</a><br>
+<a data-href="Linux" href="snippets\linux.html" class="internal-link" target="_self" rel="noopener">Linux</a>]]></description><link>snippets\linux\symlink-erstellen.html</link><guid isPermaLink="false">Snippets/Linux/Symlink erstellen.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Tar entpacken]]></title><description><![CDATA[<a class="tag" href="?query=tag:linux" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#linux</a> 
+ <br><br>tar xfv DATEINAME
+
+
+Kopieren<br><br><a href=".?query=tag:linux" class="tag" target="_blank" rel="noopener">#linux</a><br>
+<a data-href="Linux" href="snippets\linux.html" class="internal-link" target="_self" rel="noopener">Linux</a>]]></description><link>snippets\linux\tar-entpacken.html</link><guid isPermaLink="false">Snippets/Linux/Tar entpacken.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[TAR packen]]></title><description><![CDATA[<a class="tag" href="?query=tag:linux" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#linux</a> 
+ <br><br>tar cfvz [ARCHIV].tar.gz [VERZEICHNIS]
+Kopieren<br><br><a href=".?query=tag:linux" class="tag" target="_blank" rel="noopener">#linux</a><br>
+<a data-href="Linux" href="snippets\linux.html" class="internal-link" target="_self" rel="noopener">Linux</a>]]></description><link>snippets\linux\tar-packen.html</link><guid isPermaLink="false">Snippets/Linux/TAR packen.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[1316_binder_jewellery]]></title><description><![CDATA[<a class="tag" href="?query=tag:shopware" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#shopware</a> 
+ <br><br><br><br>
+<br>Sprachumschaltung
+<br>WeGlot
+<br>Emails in Fremdsprache
+<br>Kaufen erst ab Mai
+<br>XML-Import =&gt; ArtNr, Name
+<br>bis hier in Monday erfasst?
+<br><br><br><br><br><a href=".?query=tag:shopware" class="tag" target="_blank" rel="noopener">#shopware</a><br>
+#1316<br>
+<a data-href="2022-12-08" href="2022-12-08" class="internal-link" target="_self" rel="noopener">2022-12-08</a>]]></description><link>snippets\projekte\1316_binder_jewellery.html</link><guid isPermaLink="false">Snippets/Projekte/1316_binder_jewellery.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[1835_Diehl_EasySoft]]></title><description><![CDATA[<a class="tag" href="?query=tag:typo3" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#typo3</a> 
+ <br><br><br><br><br>
+<br>Dropdown Geschlecht?
+<br>Strasse &amp; Hausnummer ein Feld?
+<br>Bezeichnung/Name Arbeitgeber
+<br>ASp Arbeitgeber
+<br>SendinBlu Anmeldung????
+<br><br>
+<br>Keine Orte in Kurse hinterelegt ☹️
+<br>Zielgruppen in Orten sind Mist 😠
+<br><br><br>Zuweisung nach Ort-string sollte reichen<br>
+Zielgruppe vollkommen unklar<br>Mail vom 30.11.2022 (Jutta Kern, Diehl)<br>
+<br>Standorte sind auch wirklich am Standort
+<br>Checken wie Onlinekurse gelabelt werden
+<br><br><br><a href=".?query=tag:typo3" class="tag" target="_blank" rel="noopener">#typo3</a><br>
+#1835<br>
+<a data-href="2022-12-01" href="2022-12-01" class="internal-link" target="_self" rel="noopener">2022-12-01</a>]]></description><link>snippets\projekte\1835_diehl_easysoft.html</link><guid isPermaLink="false">Snippets/Projekte/1835_Diehl_EasySoft.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[1885_dr_maroske]]></title><description><![CDATA[<a class="tag" href="?query=tag:wordpress" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#wordpress</a> 
+ <br><br><br><br>
+<br>Wp Stagecoach?
+<br>Umzug zu Raidboxes
+<br>bis hier in Monday erfasst?
+<br><br><br>wp_comments =&gt; Statusänderungen WooCommerce<br>
+Riesengroßes WPMail-Log ;-)<br><br><br><a href=".?query=tag:wordpress" class="tag" target="_blank" rel="noopener">#wordpress</a><br>
+#1885<br>
+<a data-href="2022-12-07" href="2022-12-07" class="internal-link" target="_self" rel="noopener">2022-12-07</a>]]></description><link>snippets\projekte\1885_dr_maroske.html</link><guid isPermaLink="false">Snippets/Projekte/1885_dr_maroske.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Bild in Backend einfügen]]></title><description><![CDATA[<a class="tag" href="?query=tag:typo3" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#typo3</a> 
+ <br><br>    'menu_image' =&gt; array (
+//        'exclude' =&gt; true,
+
+        'label' =&gt; 'Bild für Menü',
+        'config' =&gt; \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::getFileFieldTCAConfig('image', [
+            'appearance' =&gt; [
+                'createNewRelationLinkTitle' =&gt; 'LLL:EXT:frontend/Resources/Private/Language/locallang_ttc.xlf:images.addFileReference'
+            ],
+            // custom configuration for displaying fields in the overlay/reference table
+            // to use the imageoverlayPalette instead of the basicoverlayPalette
+
+        ], $GLOBALS['TYPO3_CONF_VARS']['GFX']['imagefile_ext'])
+    ),
+Kopieren<br><br><a href=".?query=tag:typo3" class="tag" target="_blank" rel="noopener">#typo3</a><br>
+<a data-href="typo3" href="typo3" class="internal-link" target="_self" rel="noopener">typo3</a>]]></description><link>snippets\typo3\bild-in-backend-einfügen.html</link><guid isPermaLink="false">Snippets/typo3/Bild in Backend einfügen.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Debug]]></title><description><![CDATA[<a class="tag" href="?query=tag:typo3" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#typo3</a> 
+ <br><br>&lt;f:debug title="Element"&gt;{_all}&lt;/f:debug&gt;    
+Kopieren<br><br><a href=".?query=tag:typo3" class="tag" target="_blank" rel="noopener">#typo3</a><br>
+<a data-href="typo3" href="typo3" class="internal-link" target="_self" rel="noopener">typo3</a>]]></description><link>snippets\typo3\debug.html</link><guid isPermaLink="false">Snippets/typo3/Debug.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[How to setup a bootstrap_package based site package in&nbsp;TYPO3]]></title><description><![CDATA[<a class="tag" href="?query=tag:typo3" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#typo3</a> 
+ <br><br><br><br>A site packages is a TYPO3 extension used to package and hold together the files and configurations needed to customize our TYPO3 installation.<br>This is the recommended method of implementing websites in TYPO3.<br>A site package based on the bootstrap_package extension is the best to use as it comes with many additional features and configurations. These makes it very easy for you to get started implementing your website.<br>But if you follow the steps to setup a site package from <a data-tooltip-position="top" aria-label="https://sigalambigha.home.blog/2019/04/24/installing-a-site-package-when-typo3-is-in-composer-mode/" rel="noopener" class="external-link" href="https://sigalambigha.home.blog/2019/04/24/installing-a-site-package-when-typo3-is-in-composer-mode/" target="_blank">this article</a> for a bootstrap_package based site package created from <a data-tooltip-position="top" aria-label="https://www.sitepackagebuilder.com/" rel="noopener" class="external-link" href="https://www.sitepackagebuilder.com/" target="_blank">sitepackage builder</a>, you will get the errors below.<br>
+<br>Error below when trying to open a page in the frontend after setting up the sitepackage.
+<br>
+<br><img src="https://sigalambighahome.files.wordpress.com/2020/04/sitepackageerror-1.png?w=736" referrerpolicy="no-referrer">
+<br>2. The flash message error below when trying to create a new page in the Page module<br><img src="https://sigalambighahome.files.wordpress.com/2020/12/flash-message-error-2.png?w=574" referrerpolicy="no-referrer"><br>This article will show you another way of setting up a bootstrap_package based sitepackage and avoid having the errors above.<br>Note: test_package in the error above is the name of my sitepackage extension’s folder.<br><br>If you are already facing the errors above, follow the steps here to fix each error and continue with setting up the sitepackage<br>ERROR 1: ScssPhp\ScssPhp\Exception\CompilerException<br>
+<br>Delete the sitepackage symlink folder found in the public/typo3conf/ext folder. Where public is the document root folder.
+<br>Run **composer remove mycompany/test-package** in the terminal to remove your site package from composer. mycompany/test-package is the package name and can be gotten from the sitepackage’s composer.json file.
+<br>Extract the downloaded sitepackage downloaded earlier from the <a data-tooltip-position="top" aria-label="https://www.sitepackagebuilder.com/" rel="noopener" class="external-link" href="https://www.sitepackagebuilder.com/" target="_blank">Sitepackage Builder</a> into the public/typo3conf/ext folder.
+<br>Continue with the “<a class="internal-link" data-href="#register-sitepackage-php-class-names-in-composer" href="about:blank#register-sitepackage-php-class-names-in-composer" target="_self" rel="noopener">Register site package’s PHP class names in Composer</a>“ section below.
+<br>ERROR 2: Page tree error<br>This error occurs because bootstrap_package which has already been installed needs some additional database fields which have not yet been created. bootstrap_package was automatically installed because the Extension Manager was set to automatically install extensions after downloading them from the TER.<br>You can solve this error by following the “<a class="internal-link" data-href="#update-database" href="about:blank#update-database" target="_self" rel="noopener">Update database</a>“ steps below or just deactivating and activating again the bootstrap_package extension using the Extension Manager.<br><br>If you want to setup a new sitepackage and did not follow the steps in this <a data-tooltip-position="top" aria-label="https://sigalambigha.home.blog/2019/04/24/installing-a-site-package-when-typo3-is-in-composer-mode/" rel="noopener" class="external-link" href="https://sigalambigha.home.blog/2019/04/24/installing-a-site-package-when-typo3-is-in-composer-mode/" target="_blank">article</a>, then start from here..<br><br>
+<br>
+Go to <a data-tooltip-position="top" aria-label="https://www.sitepackagebuilder.com/" rel="noopener" class="external-link" href="https://www.sitepackagebuilder.com/" target="_blank">sitepackagebuilder.com</a> and click on “CREATE SITEPACKAGE” button.
+
+<br>
+On the next page, fill in the form. Below are screenshots showing an example of how I did mine.
+
+<br>
+<img src="https://sigalambighahome.files.wordpress.com/2020/04/sitepackage1-1.png?w=736" referrerpolicy="no-referrer">
+
+<br>
+<img src="https://sigalambighahome.files.wordpress.com/2020/04/sitepackage2.png?w=736" referrerpolicy="no-referrer">
+
+<br>
+Click on “Create Sitepackage” button at the end of the form.
+
+<br>
+On the next page, check the “Generated Configuration” information. If everything is correct, click on the “DOWNLOAD” button to download your site package.
+
+<br>
+Extract the downloaded .zip sitepackage file to the **public/typo3conf/ext** folder of your TYPO3 project folder.
+
+<br>
+Note: “public” is the document root. This folder may have a different name in your project. <a data-tooltip-position="top" aria-label="https://sigalambigha.home.blog/2020/03/09/how-to-migrate-a-typo3-project-to-composer-mode#documentRoot" rel="noopener" class="external-link" href="https://sigalambigha.home.blog/2020/03/09/how-to-migrate-a-typo3-project-to-composer-mode#documentRoot" target="_blank">Go here</a> to see how to determine this.
+
+<br><br>Add an autoload property to the project’s composer.json file (That is the myProjectFolder/composer.json file). The autoload property should look like below.<br>"autoload": {
+    "psr-4": {
+
+    }
+  }
+Kopieren<br>To this autoload property, add your sitepackage’s namespace mapping to paths. Get this information from the site package’s composer.json file (the composer.json file in the root of your sitepackage folder). See sample screenshot below for more info.<br><img src="https://sigalambighahome.files.wordpress.com/2020/04/sitepackageautoloadinfo.jpeg?w=736" referrerpolicy="no-referrer"><br>Sitepackage’s composer.json file<br>So, a part of the project’s final composer.json file including the modified autoload property will look something like below.<br><img src="https://sigalambighahome.files.wordpress.com/2021/01/modifiedautoloadproperty.jpeg?w=736" referrerpolicy="no-referrer"><br>Part of project’s composer.json file<br>
+<br>Next, run composer req bk2k/bootstrap-package command. To download the bootstrap_package extension. Take note to download the version compatible with your TYPO3 version.
+<br>Go to the ADMIN TOOLS &gt; Extensions module (Extension Manager) and activate the bootstrap_package and sitepackage extensions if they have not yet been activated.
+<br>You have to update the project’s database. If not you will get “A Page tree error” when creating pages in the page tree. This is going to affect some operations in the page tree. Follow steps below to update the database.<br>
+<br>Go to “ADMIN TOOLS —&gt; Maintenance” submodule.
+<br>Click on “Analyze database” button.
+<br>Select all the database changes to be made under the sections “Add tables” and “Add fields to tables”.
+<br>Scroll to the bottom of the modal and click on the “Apply selected changes” button.
+<br>After database updates made, close “Analyze Database Structure” modal.
+<br>Next is to setup the site package so it works with your TYPO3 installation. So, lets roll ……<br><br>Next is to create a root page which is going to hold our TypoScript template. Follow the steps below to create the page.<br>
+<br>Go to the “WEB —&gt; Page” sub-module and create a new Page under the Page tree item having the TYPO3 logo.
+<br>Enable the page and click on the just created page.
+<br>Click on the Edit page button <img alt="undefined" src="https://sigalambighahome.files.wordpress.com/2019/04/edit-page-icon-e1588059220809.png?w=25" referrerpolicy="no-referrer"> then click on the Behaviour tab.
+<br>Turn on the “Use as Root Page” option.
+<br>Click on Save button to save the changes.
+<br>Next is to create a TypoScript template for our website. To do that, follow the steps below:<br>
+<br>Click on the Root page you just created to select it.
+<br>Go to the “WEB —&gt; Template” submodule and click the “Create template for a new site” button.
+<br>Switch from “Constant Editor” to “Info/Modify” in document header (Found at top of the page).
+<br>Click “Edit the whole template record” button.
+<br>Remove auto-generated TypoScript in the “Setup” section of the page.
+<br>Go to the “Includes” tab and in the part to “Include static (from extensions)“, select the sitepackage’s static template(it has the same name as the extension).
+<br>Click on Save button to save the change.
+<br>Click on the “View” button to view your the created page.
+<br>You should see a page that looks like below.<br><img src="https://sigalambighahome.files.wordpress.com/2020/04/samplebooststrap-package-page.png?w=736" referrerpolicy="no-referrer"><br>This shows you have successfully configured your site package. You can now make the necessary modifications or configurations to implement your website.<br><br>So there you go. You have successfully configured a bootstrap_package based site package. If any questions or issues, just leave them in the comments and lets discuss.<br>Until then, see u……<br><br>Clipped on Dienstag, 29. November 2022, 12:49<br><a href=".?query=tag:typo3" class="tag" target="_blank" rel="noopener">#typo3</a><br>
+<a data-href="typo3" href="typo3" class="internal-link" target="_self" rel="noopener">typo3</a>]]></description><link>snippets\typo3\how-to-setup-a-bootstrap_package-based.html</link><guid isPermaLink="false">Snippets/typo3/How to setup a bootstrap_package based.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate><enclosure url="https://sigalambighahome.files.wordpress.com/2020/04/sitepackageerror-1.png?w=736" length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="https://sigalambighahome.files.wordpress.com/2020/04/sitepackageerror-1.png?w=736"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Typo3 Felder dazu basteln]]></title><description><![CDATA[<a class="tag" href="?query=tag:typo3" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#typo3</a> 
+ <br><br><br><br>Wir richten uns zwei neue Seiteneigenschaften ein: Ein weiteres Textfeld zur freien Verfügung sowie eine eigene Checkbox.<br>
+<br>Das Textfeld wird sowohl in der Originalsprache als auch bei alternativen Seitensprachen individuell pflegbar sein.
+<br>Bei der Checkbox erweitern wir das Verhalten bei Übersetzungen: Der Status (aktiv/inaktiv) wird auf übersetzte Seiten vererbt und kann dort bei Bedarf überschrieben werden.
+<br>Das Tutorial gilt für alle TYPO3-Versionen ab 9.5! In älteren TYPO3-Versionen wurde für übersetzte Seiten noch die Datenbanktabelle pages_language_overlay benötigt. Im <a data-tooltip-position="top" aria-label="https://web.archive.org/web/20211014143742/https://www.sebkln.de/tutorials/typo3-datenbanktabellen-um-neue-felder-erweitern/" rel="noopener" class="external-link" href="https://web.archive.org/web/20211014143742/https://www.sebkln.de/tutorials/typo3-datenbanktabellen-um-neue-felder-erweitern/" target="_blank">Internet Archive (Wayback Machine) findet ihr dieses Tutorial</a> mit den notwendigen Ergänzungen für TYPO3 v8 und früher.<br><a data-tooltip-position="top" aria-label="https://www.sebkln.de/fileadmin/_processed_/a/1/csm_pages_addfields_backend_source_4f94d80140.jpg" rel="noopener" class="external-link" href="https://www.sebkln.de/fileadmin/_processed_/a/1/csm_pages_addfields_backend_source_4f94d80140.jpg" target="_blank"></a><img alt="Eigene Backend-Felder in der Originalsprache" src="https://www.sebkln.de/fileadmin/_processed_/a/1/csm_pages_addfields_backend_source_3bb44c8a98.jpg" referrerpolicy="no-referrer"><br>Eigene Backend-Felder in den Seiteneigenschaften der Originalsprache.<br><a data-tooltip-position="top" aria-label="https://www.sebkln.de/fileadmin/_processed_/f/5/csm_pages_addfields_backend_translation_768862af43.jpg" rel="noopener" class="external-link" href="https://www.sebkln.de/fileadmin/_processed_/f/5/csm_pages_addfields_backend_translation_768862af43.jpg" target="_blank"></a><img alt="Eigene Backend-Felder in der übersetzten Seite" src="https://www.sebkln.de/fileadmin/_processed_/f/5/csm_pages_addfields_backend_translation_587c5937c6.jpg" referrerpolicy="no-referrer"><br>In der übersetzten Seite erhält unsere Checkbox ergänzende Einstellungen zum gewünschten Übersetzungsverhalten.<br>Die fertige Extension findet ihr auf Github:<br><a data-tooltip-position="top" aria-label="https://github.com/sebkln/pages_addfields" rel="noopener" class="external-link" href="https://github.com/sebkln/pages_addfields" target="_blank">Demo herunterladen</a><br>Um die Datenbanktabellen in TYPO3 erweitern zu können, bedarf es einer bestimmten Ordner- und Dateistruktur in unserer Extension:<br><a data-tooltip-position="top" aria-label="https://www.sebkln.de/fileadmin/Content/Images/Tutorials/pages_addfields_structure.jpg" rel="noopener" class="external-link" href="https://www.sebkln.de/fileadmin/Content/Images/Tutorials/pages_addfields_structure.jpg" target="_blank"></a><img alt="Dateistruktur einer TYPO3-Extension" src="https://www.sebkln.de/fileadmin/_processed_/b/e/csm_pages_addfields_structure_49175a0822.jpg" referrerpolicy="no-referrer"><br>
+<br>In Configuration/TCA/Overrides werden neue Felder für bestehende Tabellen konfiguriert. Aus Gründen der Verständlichkeit sollten die Dateien den Namen der Datenbanktabelle tragen.
+<br>In Resources/Private/Language habe ich die Bezeichnungen für das Backend in englischer und deutscher Sprache hinterlegt. Dies ist der saubere Ansatz, man könnte aber auch die Namen (ohne Übersetzung) direkt ins TCA schreiben.
+<br>Extension.svg ist als Icon im Extension Manager zu sehen.
+<br>composer.json ermöglicht die Installation der Extension mit composer (wird in diesem Tutorial nicht näher erklärt).
+<br>ext_emconf.php enthält die Extension-Konfiguration. Ohne diese Datei kann die Extension in TYPO3 nicht installiert werden.
+<br>In der ext_tables.sql erweitern wir die Datenbank von TYPO3 mit SQL.
+<br>Die Extension habe ich in diesem Fall pages_addfields genannt.<br>In der Konfigurationsdatei ext_emconf.php finden sich Titel und Beschreibung der Extension, die Versionsnummer, Angaben zum Autor und ggf. Abhängigkeiten, z.B. zur TYPO3-Version.<br>&lt;?php
+
+$EM_CONF[$_EXTKEY] = [
+    'title' =&gt; 'Additional pages field(s)',
+    'description' =&gt; 'Provides a basic example how to extend TYPO3 pages with your own fields.',
+    'category' =&gt; 'example',
+    'author' =&gt; 'Sebastian Klein',
+    'author_email' =&gt; 'sebastian@sebkln.de',
+    'state' =&gt; 'test',
+    'version' =&gt; '2.0.0',
+    'constraints' =&gt; [
+        'depends' =&gt; [
+            'typo3' =&gt; '9.5.0-11.5.99',
+        ],
+        'conflicts' =&gt; [
+        ],
+        'suggests' =&gt; [
+        ],
+    ],
+];
+Kopieren<br>Über die Datei&nbsp;ext_tables.sql&nbsp;werden die neuen Datenbankfelder ergänzt. Es muss hier der Befehl&nbsp;CREATE TABLE&nbsp;verwendet werden – TYPO3 erkennt bei der Installation der Extension, ob die Tabelle bereits existiert und fügt der bestehenden Tabelle dann nur die neuen Felder hinzu.<br>Die Verwendung des Extension-Keys im Feldnamen (hier:&nbsp;tx_pagesaddfields) ist nicht notwendig, vermeidet aber Kollisionen mit anderen Extensions, die ggf. Felder gleichen Namens anlegen könnten.<br>#
+# Modifying pages table
+#
+CREATE TABLE pages (
+    tx_pagesaddfields_customtext varchar(255) DEFAULT '' NOT NULL,
+    tx_pagesaddfields_customcheckbox TINYINT(1) UNSIGNED DEFAULT '0' NOT NULL
+);
+Kopieren<br>Falls nachträglich Änderungen am SQL vorgenommen werden, muss die Extension einmal de- und re-installiert werden, damit TYPO3 die Anpassungen erkennt und übernimmt.<br>Damit TYPO3 die Datenbankfelder verwendet, müssen sie über das <a data-tooltip-position="top" aria-label="https://docs.typo3.org/typo3cms/TCAReference/Introduction/Index.html#what-is-globals-tca" rel="noopener" class="external-link" href="https://docs.typo3.org/typo3cms/TCAReference/Introduction/Index.html#what-is-globals-tca" target="_blank">TCA</a> bekannt gemacht und konfiguriert werden.<br>Im ersten Schritt werden die neuen Felder konfiguriert: als Input-Feld und Checkbox. Ein ganz kurzer Überblick über die Konfiguration:<br>
+<br>label: der Name des Feldes im Backend. Könnte hartkodiert hinterlegt werden, hier wird aber die locallang.xlf verwendet.
+<br>exclude: wenn gesetzt, gehört dieses Feld zu den sogenannten "Erlaubten Ausschlussfeldern", die erst über eine Backend-Benutzergruppe editierbar gemacht werden müssen.
+<br>config: die Art des Feldes. Hier verwenden wir ganz simple Einstellungen für unsere Felder, <a data-tooltip-position="top" aria-label="https://docs.typo3.org/typo3cms/TCAReference/Columns/Index.html" rel="noopener" class="external-link" href="https://docs.typo3.org/typo3cms/TCAReference/Columns/Index.html" target="_blank">diese ließen sich aber auch erweitern</a>.<br>
+Beachtet bei der Checkbox die Einstellung&nbsp;allowLanguageSynchronization: sie ergänzt das eingangs beschriebene Verhalten bei Übersetzungen.
+<br>Anschließend fügen wir die Felder über die TYPO3 API-Methode <a data-tooltip-position="top" aria-label="https://api.typo3.org/master/class_t_y_p_o3_1_1_c_m_s_1_1_core_1_1_utility_1_1_extension_management_utility.html#a91f6e8c02a531a7e5992fa6a8ec39dea" rel="noopener" class="external-link" href="https://api.typo3.org/master/class_t_y_p_o3_1_1_c_m_s_1_1_core_1_1_utility_1_1_extension_management_utility.html#a91f6e8c02a531a7e5992fa6a8ec39dea" target="_blank">addTCAcolumns</a> der bestehenden Tabelle hinzu. Mit <a data-tooltip-position="top" aria-label="https://api.typo3.org/master/class_t_y_p_o3_1_1_c_m_s_1_1_core_1_1_utility_1_1_extension_management_utility.html#ae3c8a1047df96808caa85631524e2a1a" rel="noopener" class="external-link" href="https://api.typo3.org/master/class_t_y_p_o3_1_1_c_m_s_1_1_core_1_1_utility_1_1_extension_management_utility.html#ae3c8a1047df96808caa85631524e2a1a" target="_blank">addToAllTCAtypes</a> lassen wir die Felder im TCEFORM erscheinen. Zuletzt fügen wir unsere neue Palette den Seiteneigenschaften hinzu.<br>&lt;?php
+defined('TYPO3_MODE') or die();
+
+// Configure new fields:
+$fields = [
+    'tx_pagesaddfields_customtext' =&gt; [
+        'label' =&gt; 'LLL:EXT:pages_addfields/Resources/Private/Language/locallang_db.xlf:pages.tx_pagesaddfields_customtext',
+        'exclude' =&gt; 1,
+        'config' =&gt; [
+            'type' =&gt; 'input',
+            'max' =&gt; 255
+        ],
+    ],
+    'tx_pagesaddfields_customcheckbox' =&gt; [
+        'exclude' =&gt; 1,
+        'label' =&gt; 'LLL:EXT:pages_addfields/Resources/Private/Language/locallang_db.xlf:pages.tx_pagesaddfields_customcheckbox',
+        'config' =&gt; [
+            'type' =&gt; 'check',
+            'default' =&gt; 0,
+            'behaviour' =&gt; [
+                'allowLanguageSynchronization' =&gt; true
+            ]
+        ]
+    ]
+];
+
+// Add new fields to pages:
+\TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addTCAcolumns('pages', $fields);
+
+// Make fields visible in the TCEforms:
+\TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addToAllTCAtypes(
+    'pages', // Table name
+    '--palette--;LLL:EXT:pages_addfields/Resources/Private/Language/locallang_db.xlf:pages.palette_title;tx_pagesaddfields',
+    // Field list to add
+    '1', // List of specific types to add the field list to. (If empty, all type entries are affected)
+    'after:nav_title' // Insert fields before (default) or after one, or replace a field
+);
+
+// Add the new palette:
+$GLOBALS['TCA']['pages']['palettes']['tx_pagesaddfields'] = [
+    'showitem' =&gt; 'tx_pagesaddfields_customcheckbox,tx_pagesaddfields_customtext'
+];
+Kopieren<br>Die Verwendung der Lokalisierungs-Dateien hat nichts mit der Ausgabe im Frontend zu tun. Vielmehr geht es hier um die Mehrsprachigkeit im Backend. Die Labels, also die Benennung unserer Felder, können auf diese Weise für fremdsprachige Backend-Benutzer übersetzt werden.<br>Verlinkt wird die Sprachdatei – wie oben gesehen – mit LLL:EXT:pages_addfields/Resources/Private/Language/locallang_db.xlf:, nach dem Doppelpunkt folgt die ID des lokalisierten Inhalts. Bei gewählter Fremdsprache Deutsch im Backend sucht TYPO3 nach der Datei mit vorangestelltem Kürzel de. und der Übersetzung im target-Element.<br>&lt;?xml version="1.0" encoding="utf-8" standalone="yes" ?&gt;
+&lt;xliff version="1.0"&gt;
+    &lt;file source-language="en" datatype="plaintext" original="messages" date="2016-06-18T12:03:24Z"
+          product-name="pages_addfields"&gt;
+        &lt;header/&gt;
+        &lt;body&gt;
+            &lt;trans-unit id="pages.palette_title"&gt;
+                &lt;source&gt;My custom fields&lt;/source&gt;
+            &lt;/trans-unit&gt;
+            &lt;trans-unit id="pages.tx_pagesaddfields_customtext"&gt;
+                &lt;source&gt;Custom text field&lt;/source&gt;
+            &lt;/trans-unit&gt;
+            &lt;trans-unit id="pages.tx_pagesaddfields_customcheckbox"&gt;
+                &lt;source&gt;Custom checkbox&lt;/source&gt;
+            &lt;/trans-unit&gt;
+        &lt;/body&gt;
+    &lt;/file&gt;
+&lt;/xliff&gt;
+
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes" ?&gt;
+&lt;xliff version="1.0"&gt;
+    &lt;file source-language="en" datatype="plaintext" original="messages" date="2016-06-18T12:03:24Z"
+          product-name="pages_addfields" target-language="de"&gt;
+        &lt;header/&gt;
+        &lt;body&gt;
+            &lt;trans-unit id="pages.palette_title"&gt;
+                &lt;source&gt;My custom fields&lt;/source&gt;
+                &lt;target&gt;Meine benutzerdefinierten Felder&lt;/target&gt;
+            &lt;/trans-unit&gt;
+            &lt;trans-unit id="pages.tx_pagesaddfields_customtext"&gt;
+                &lt;source&gt;Custom text field&lt;/source&gt;
+                &lt;target&gt;Benutzerdefiniertes Textfeld&lt;/target&gt;
+            &lt;/trans-unit&gt;
+            &lt;trans-unit id="pages.tx_pagesaddfields_customcheckbox"&gt;
+                &lt;source&gt;Custom checkbox&lt;/source&gt;
+                &lt;target&gt;Benutzerdefinierte Checkbox&lt;/target&gt;
+            &lt;/trans-unit&gt;
+        &lt;/body&gt;
+    &lt;/file&gt;
+&lt;/xliff&gt;
+Kopieren<br>Wie ihr die neuen Felder nutzt, bleibt euch überlassen. Ihr könntet beispielsweise die Ausgabe des Textfelds davon abhängig machen, ob die Checkbox gewählt wurde:<br>10 = TEXT
+10.field = tx_pagesaddfields_customtext
+10.if.isTrue.field = tx_pagesaddfields_customcheckbox
+Kopieren<br><br>Clipped on Dienstag, 29. November 2022, 12:48<br><br><a href=".?query=tag:typo3" class="tag" target="_blank" rel="noopener">#typo3</a><br>
+<a data-href="typo3" href="typo3" class="internal-link" target="_self" rel="noopener">typo3</a>]]></description><link>snippets\typo3\typo3-felder-dazu-basteln.html</link><guid isPermaLink="false">Snippets/typo3/Typo3 Felder dazu basteln.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate><enclosure url="https://www.sebkln.de/fileadmin/_processed_/a/1/csm_pages_addfields_backend_source_3bb44c8a98.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="https://www.sebkln.de/fileadmin/_processed_/a/1/csm_pages_addfields_backend_source_3bb44c8a98.jpg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[get_latest_posts_from_cat]]></title><description><![CDATA[<a class="tag" href="?query=tag:wordpress" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#wordpress</a> <a class="tag" href="?query=tag:shortcodes" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#shortcodes</a> 
+ <br><br>&lt;?php
+
+add_shortcode('NeuestePosts', 'get_latest_posts_from_cat');
+function get_latest_posts_from_cat($atts)
+{
+    $atts = shortcode_atts( array(
+        'von' =&gt; '',
+        'anzahl' =&gt; 9
+    ), $atts, 'get_latest_post_from_cat' );
+
+    $args = array(
+        'numberposts' =&gt; $atts['anzahl'],
+        'order' =&gt; 'DESC',
+        'orderby' =&gt; 'date',
+    );
+
+    if (!empty($atts['von'])) {
+        $args['tax_query'] = array(
+            array(
+                'taxonomy' =&gt; 'category',
+                'field' =&gt; 'name',
+                'terms' =&gt; $atts['von'],
+            )
+        );
+    }
+
+    $posts = get_posts($args);
+    ob_start()
+    ?&gt;
+    &lt;div class="row"&gt;
+        &lt;?php
+        foreach ($posts as $key=&gt;$post) {
+            $terms = get_the_terms($post-&gt;ID, 'category');
+            $link = get_permalink($post-&gt;ID);
+            $image = get_the_post_thumbnail($post-&gt;ID, 'full');
+            $date = date('d.m.Y', strtotime($post-&gt;post_date));
+        ?&gt;
+            &lt;div class="col-lg-6 row"&gt;
+                &lt;div class="col-lg-7"&gt;
+                    &lt;h4 class="post-title"&gt;
+                       &lt;a href="&lt;?php echo $link; ?&gt;"&gt;
+                        &lt;?php echo $post-&gt;post_title;?&gt;
+                       &lt;/a&gt;
+                    &lt;/h4&gt;
+                    &lt;div class="post-content"&gt;
+                        &lt;?php echo wp_trim_words($post-&gt;post_content, 50, '...'); ?&gt;
+                    &lt;/div&gt;
+                    &lt;div class="post-meta row"&gt;
+                        &lt;span class="col-6 post-category"&gt;
+                            &lt;?php
+                            foreach ($terms as $term) {
+                                echo $term-&gt;name . " ";
+                            }
+                            ?&gt;
+                        &lt;/span&gt;
+                        &lt;span class="col-6 post-date"&gt;
+                            &lt;?php echo $date;?&gt;
+                        &lt;/span&gt;
+                    &lt;/div&gt;
+                    &lt;a href="&lt;?php echo $link; ?&gt;"&gt;&lt;button class="btn read-more-btn"&gt;Weiter&lt;/button&gt;&lt;/a&gt;
+               &lt;/div&gt;
+                &lt;div class="col-lg-5"&gt;
+                    &lt;div class="postimage-preview"&gt;
+                        &lt;?php echo $image; ?&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+
+        &lt;?php
+        }
+
+        ?&gt;
+    &lt;/div&gt;
+&lt;?php
+    return ob_get_clean();
+}
+
+Kopieren<br><br><a href=".?query=tag:wordpress" class="tag" target="_blank" rel="noopener">#wordpress</a><br>
+<a href=".?query=tag:shortcodes" class="tag" target="_blank" rel="noopener">#shortcodes</a><br>
+<a data-href="link" href="link" class="internal-link" target="_self" rel="noopener">link</a>]]></description><link>snippets\wordpress\shortcodes\get_latest_posts_from_cat.html</link><guid isPermaLink="false">Snippets/wordpress/shortcodes/get_latest_posts_from_cat.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[get_posts_without_cat]]></title><description><![CDATA[<a class="tag" href="?query=tag:wordpress" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#wordpress</a> <a class="tag" href="?query=tag:shortcodes" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#shortcodes</a> 
+ <br><br>&lt;?php
+
+add_shortcode('PostsOhne', 'get_posts_without_cat');
+function get_posts_without_cat($atts)
+{
+    $atts = shortcode_atts(array(
+        'kategorie' =&gt; '',
+        'anzahl' =&gt; 9
+    ), $atts, 'get_latest_post_from_cat');
+
+    $args = array(
+        'numberposts' =&gt; $atts['anzahl'],
+        'order' =&gt; 'DESC',
+        'orderby' =&gt; 'date',
+    );
+
+    if (!empty($atts['kategorie'])) {
+        if (strpos($atts['kategorie'], ',') &gt; 0) {
+            $kategorien = explode(',', $atts['kategorien']);
+            $args['tax_query'] = array();
+            foreach ($kategorien as $kategorie) {
+                $push =  array(
+                    'taxonomy' =&gt; 'category',
+                    'field' =&gt; 'name',
+                    'terms' =&gt; $kategorie,
+                    'operator' =&gt; 'NOT IN'
+                );
+                array_push($args['tax_query'], $push);
+            }
+
+
+        } else {
+            $args['tax_query'] = array(
+                array(
+                    'taxonomy' =&gt; 'category',
+                    'field' =&gt; 'name',
+                    'terms' =&gt; $atts['kategorie'],
+                    'operator' =&gt; 'NOT IN'
+                )
+            );
+        }
+
+    }
+
+    $posts = get_posts($args);
+
+    ob_start();
+    ?&gt;
+    &lt;div class="row row-cols-lg-3 g-4"&gt;
+        &lt;?php
+        foreach ($posts as $key=&gt;$post) {
+            $terms = get_the_terms($post-&gt;ID, 'category');
+            $link = get_permalink($post-&gt;ID);
+            $image = get_the_post_thumbnail_url($post-&gt;ID, 'full');
+            $date = date('d.m.Y', strtotime($post-&gt;post_date));
+        ?&gt;
+            &lt;div class="post"&gt;
+                &lt;a class="post-link" href="&lt;?php echo $link;?&gt;"&gt;
+                    &lt;div class="h-100 p-4" style="background-image: url('&lt;?php echo $image;?&gt;');"&gt;
+                        &lt;div class="d-flex flex-row justify-content-end"&gt;
+                            &lt;div&gt;&lt;?php echo $date; ?&gt;&lt;/div&gt;
+                            &lt;div class="post-button"&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;div class="d-flex flex-column justify-content-start align-bottom"&gt;
+                            &lt;div class="kategorie"&gt;
+                                &lt;?php
+                                foreach ($terms as $term) {
+                                    echo $term-&gt;name . " ";
+                                }
+                                ?&gt;
+                            &lt;/div&gt;
+                            &lt;h4 class="post-title"&gt;
+                                &lt;?php echo $post-&gt;post_title;?&gt;
+                            &lt;/h4&gt;
+                            &lt;div class="post-content"&gt;
+                                &lt;?php echo wp_trim_words($post-&gt;post_content, 20, '...'); ?&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/a&gt;&lt;
+            &lt;/div&gt;
+        &lt;?php
+        }
+        ?&gt;
+    &lt;/div&gt;
+
+
+    &lt;?php
+    return ob_get_clean();
+}
+
+Kopieren<br><br><a href=".?query=tag:wordpress" class="tag" target="_blank" rel="noopener">#wordpress</a><br>
+<a href=".?query=tag:shortcodes" class="tag" target="_blank" rel="noopener">#shortcodes</a><br>
+<a data-href="link" href="link" class="internal-link" target="_self" rel="noopener">link</a>]]></description><link>snippets\wordpress\shortcodes\get_posts_without_cat.html</link><guid isPermaLink="false">Snippets/wordpress/shortcodes/get_posts_without_cat.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[list_children_of_taxonomy]]></title><description><![CDATA[<a class="tag" href="?query=tag:wordpress" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#wordpress</a> <a class="tag" href="?query=tag:shortcodes" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#shortcodes</a> 
+ <br><br>&lt;?php
+add_shortcode('ListeKinderVon', 'list_children_fo_taxonomy');
+function list_children_fo_taxonomy($atts)
+{
+    $atts = shortcode_atts(array(
+        'von' =&gt; 'beitraege',
+        'taxonomy' =&gt; 'category'
+    ), $atts, 'list_children_fo_taxonomy');
+
+    $term = get_term_by('slug', $atts['von'], $atts['taxonomy']);
+
+    $children = get_terms( $term-&gt;taxonomy, array(
+        'parent'    =&gt; $term-&gt;term_id,
+        'hide_empty' =&gt; false
+    ) );
+
+    ?&gt;
+    &lt;h2&gt;Kategorien&lt;/h2&gt;
+    &lt;ul&gt;
+        &lt;?php
+        foreach ($children as $child) {
+            $link = get_term_link($child-&gt;term_id, $child-&gt;taxonomy);
+            ?&gt;
+            &lt;li class="category-list"&gt;&lt;a href="&lt;?php echo $link; ?&gt;"&gt;&lt;?php echo $child-&gt;name;?&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;?php
+        }
+        ?&gt;
+
+    &lt;/ul&gt;
+    &lt;?php
+}
+
+Kopieren<br><br><a href=".?query=tag:wordpress" class="tag" target="_blank" rel="noopener">#wordpress</a><br>
+<a href=".?query=tag:shortcodes" class="tag" target="_blank" rel="noopener">#shortcodes</a><br>
+<a data-href="link" href="link" class="internal-link" target="_self" rel="noopener">link</a>]]></description><link>snippets\wordpress\shortcodes\list_children_of_taxonomy.html</link><guid isPermaLink="false">Snippets/wordpress/shortcodes/list_children_of_taxonomy.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Add  product attributes to email]]></title><description><![CDATA[ 
+ <br>add_action('woocommerce_order_item_meta_end', 'add_product_attributes_to_email', 10, 2);  
+  
+function add_product_attributes_to_email($item_id, $item)  
+{  
+  
+	$produktDaten = array('pa_hersteller', 'pa_material', 'pa_legierung', 'pa_ringgroesse', 'pa_steinbesatz');  
+	$productId = $item-&gt;get_product_id();  
+	//$productId = $item-&gt;get_product_id();  
+	$product = wc_get_product($productId);  
+	if ($product-&gt;is_type('simple')) {  
+		echo "&lt;ul class='wc-item-meta'&gt;";  
+		foreach ($produktDaten as $taxonomy) {  
+			$value = $product-&gt;get_attribute($taxonomy);  
+			if ($value) {  
+			$label = wc_attribute_label($taxonomy);  
+			echo "&lt;li&gt;&lt;strong&gt; $label :&lt;/strong&gt;$value&lt;/li&gt;&lt;br/&gt;";  
+			}  
+		}  
+	echo "&lt;/ul&gt;";  
+	}  
+//Für Vorschau der Emails in den Bestellungen auskommentieren  
+//exit;  
+}  
+Kopieren]]></description><link>snippets\wordpress\woocommerce\add-product-attributes-to-email.html</link><guid isPermaLink="false">Snippets/wordpress/WooCommerce/Add  product attributes to email.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Add fields to check out]]></title><description><![CDATA[<a class="tag" href="?query=tag:php" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#php</a> <a class="tag" href="?query=tag:woocommerce" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#woocommerce</a> 
+ <br><br>add_filter( 'woocommerce_checkout_fields' , 'custom_add_checkout_fields' );
+
+function custom_add_checkout_fields( $fields ) {
+    unset($fields['order']['order_comments']);
+    unset($fields['billing']['billing_phone']);
+    $fields['billing']['billing_email2'] = array(
+        'label'     =&gt; __('E-Mail-Adresse bestätigen', 'woocommerce'),
+        'placeholder'   =&gt; _x('E-Mail', 'woocommerce'),
+        'required'  =&gt; true,
+        'class'     =&gt; array('form-row-wide'),
+        'clear'     =&gt; true
+    );
+
+    $fields['billing']['website'] = array (
+        'label'     =&gt; __('Internet-Adresse', 'woocommerce'),
+        'placeholder'   =&gt; _x('Bitte geben Sie Ihre Website an', 'placeholder', 'woocommerce'),
+        'required'  =&gt; false,
+        'class'     =&gt; array('form-row-wide'),
+        'clear'     =&gt; true
+    );
+
+    return $fields;
+}
+
+// compare email-adresses
+add_action('woocommerce_checkout_process', 'mycheck_email_addresses');
+
+function mycheck_email_addresses() {
+    $email1 = $_POST['billing_email'];
+    $email2 = $_POST['billing_email2'];
+    if ( $email2 !== $email1 ) {
+        wc_add_notice( __( "Bitte überprüfen Sie Ihre Email-Adresse!", 'woocommerce' ), 'error' );
+    }
+}
+Kopieren<br><br><a href=".?query=tag:php" class="tag" target="_blank" rel="noopener">#php</a><br>
+<a href=".?query=tag:woocommerce" class="tag" target="_blank" rel="noopener">#woocommerce</a>]]></description><link>snippets\wordpress\woocommerce\add-fields-to-check-out.html</link><guid isPermaLink="false">Snippets/wordpress/WooCommerce/Add fields to check out.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Add link to change product before cart]]></title><description><![CDATA[<a class="tag" href="?query=tag:php" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#php</a> <a class="tag" href="?query=tag:woocommerce" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#woocommerce</a> 
+ <br><br>add_action('woocommerce_before_cart', 'um_change_product_link');
+
+function um_change_product_link() {
+    foreach ( WC()-&gt;cart-&gt;get_cart() as $cart_item_key =&gt; $cart_item ) {
+        $product = $cart_item['data'];
+        $product_id = $cart_item['product_id'];
+        $quantity = $cart_item['quantity'];
+        $price = WC()-&gt;cart-&gt;get_product_price( $product );
+        $subtotal = WC()-&gt;cart-&gt;get_product_subtotal( $product, $cart_item['quantity'] );
+        $link = $product-&gt;get_permalink( $cart_item );
+
+        if ($product_id == 2652) {
+        ?&gt;
+            &lt;div style="background-color:white; padding:1em; border:1px dashed orange;"&gt;&lt;strong&gt;Sie möchten lieber eine Pro-Mitgliedschaft abschliessen?&lt;/strong&gt;&lt;a href="https://www.heilpraktikerrecht.com/shop/cart?clear-cart&amp;add-to-cart=2653&amp;quantity=1" style="margin-left:1em;"&gt;&lt;button class="button alt next-step-button"&gt;Zu Pro wechseln&lt;/button&gt;&lt;/a&gt;&lt;/div&gt;
+        &lt;?php
+        }
+//        else {
+//            ?&gt;
+&lt;!--            &lt;div style="background-color:white; padding:1em; border:1px dashed orange;"&gt;&lt;strong&gt;Sie möchten lieber eine Basic-Mitgliedschaft abschliessen?&lt;/strong&gt;&lt;a href="https://www.heilpraktikerrecht.com/shop/cart?clear-cart&amp;add-to-cart=2652&amp;quantity=1" style="margin-left:1em;"&gt;&lt;button class="button alt next-step-button"&gt;Zu Basic wechseln&lt;/button&gt;&lt;/a&gt;&lt;/div&gt;--&gt;
+&lt;!--        --&gt;&lt;?php
+//        }
+    }
+}
+Kopieren<br><br><a href=".?query=tag:php" class="tag" target="_blank" rel="noopener">#php</a><br>
+<a href=".?query=tag:woocommerce" class="tag" target="_blank" rel="noopener">#woocommerce</a>]]></description><link>snippets\wordpress\woocommerce\add-link-to-change-product-before-cart.html</link><guid isPermaLink="false">Snippets/wordpress/WooCommerce/Add link to change product before cart.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[add new role for customers]]></title><description><![CDATA[<a class="tag" href="?query=tag:php" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#php</a> <a class="tag" href="?query=tag:woocommerce" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#woocommerce</a> 
+ <br><br>function um_new_customer_role() {
+
+    //add the special customer role
+    add_role(
+        'kostenlos',
+        "Kostenlos",
+        array(
+            'read'         =&gt; true,
+            'delete_posts' =&gt; false
+        )
+    );
+
+}
+add_action('admin_init', 'um_new_customer_role');
+Kopieren<br><br><a href=".?query=tag:php" class="tag" target="_blank" rel="noopener">#php</a><br>
+<a href=".?query=tag:woocommerce" class="tag" target="_blank" rel="noopener">#woocommerce</a>]]></description><link>snippets\wordpress\woocommerce\add-new-role-for-customers.html</link><guid isPermaLink="false">Snippets/wordpress/WooCommerce/add new role for customers.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Add prefix to variant prices]]></title><description><![CDATA[<a class="tag" href="?query=tag:php" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#php</a> <a class="tag" href="?query=tag:woocommerce" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#woocommerce</a> 
+ <br><br>add_filter('woocommerce_variable_sale_price_html', 'wc_wc20_variation_price_format', 10, 2);
+add_filter('woocommerce_variable_price_html', 'wc_wc20_variation_price_format', 10, 2);
+function wc_wc20_variation_price_format($price, $product)
+{
+	// Main Price
+	$prices = array($product-&gt;get_variation_price('min', true), $product-&gt;get_variation_price('max', true));
+	$price = $prices[0] !== $prices[1] ? sprintf(__(' ab %1$s', 'woocommerce'), wc_price($prices[0])) : wc_price($prices[0]);
+	// Sale Price
+	$prices = array($product-&gt;get_variation_regular_price('min', true), $product-&gt;get_variation_regular_price('max', true));
+	sort($prices);
+	$saleprice = $prices[0] !== $prices[1] ? sprintf(__(' ab %1$s', 'woocommerce'), wc_price($prices[0])) : wc_price($prices[0]);
+
+	if ($price !== $saleprice) {
+		$price = '&lt;del&gt;' . $saleprice . '&lt;/del&gt; &lt;ins&gt;' . $price . '&lt;/ins&gt;';
+	}
+	return $price;
+}
+Kopieren<br><br><a href=".?query=tag:php" class="tag" target="_blank" rel="noopener">#php</a><br>
+<a href=".?query=tag:woocommerce" class="tag" target="_blank" rel="noopener">#woocommerce</a>]]></description><link>snippets\wordpress\woocommerce\add-prefix-to-variant-prices.html</link><guid isPermaLink="false">Snippets/wordpress/WooCommerce/Add prefix to variant prices.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Add price suffix]]></title><description><![CDATA[<a class="tag" href="?query=tag:php" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#php</a> <a class="tag" href="?query=tag:woocommerce" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#woocommerce</a> 
+ <br><br>function addPriceSuffix($format, $currency_pos)
+{
+	global $product;
+	$vProductID = get_the_ID();
+	switch ($currency_pos) {
+		case 'left':
+			$currency = get_woocommerce_currency();
+			$format = '%2$s&amp;nbsp;' . $currency;
+			// $format = '%1$s%2$s';
+			break;
+	}
+	/*	
+	echo '&lt;pre&gt;';
+	print_r($product);
+	echo  '&lt;/pre&gt;';
+*/
+	$vArt = $product-&gt;shipping_class_id;
+	//$vArt = 358;
+	// if ($vArt == 358) {
+	// 	return 'ab ' . $format;
+	// } else {
+	// 	return $format;
+	// }
+	if ($product-&gt;stock_status == "outofstock") {
+		//return 'ab ' . $format;
+		return '';
+	} else {
+		return $format;
+	}
+}
+add_action('woocommerce_price_format', 'addPriceSuffix', 1, 2);
+Kopieren<br><br><a href=".?query=tag:php" class="tag" target="_blank" rel="noopener">#php</a><br>
+<a href=".?query=tag:woocommerce" class="tag" target="_blank" rel="noopener">#woocommerce</a>]]></description><link>snippets\wordpress\woocommerce\add-price-suffix.html</link><guid isPermaLink="false">Snippets/wordpress/WooCommerce/Add price suffix.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[add rights to shop manager]]></title><description><![CDATA[<a class="tag" href="?query=tag:woocommerce" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#woocommerce</a> <a class="tag" href="?query=tag:php" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#php</a> 
+ <br><br>function wws_add_shop_manager_user_editing_capability() {
+    $shop_manager = get_role( 'shop_manager' );
+    $shop_manager-&gt;add_cap( 'edit_users' );
+    $shop_manager-&gt;add_cap( 'edit_user' );
+    $shop_manager-&gt;add_cap( 'promote_users' );
+    $shop_manager-&gt;add_cap( 'manage_network_users' );
+}
+add_action( 'admin_init', 'wws_add_shop_manager_user_editing_capability');
+Kopieren<br><br><a href=".?query=tag:woocommerce" class="tag" target="_blank" rel="noopener">#woocommerce</a><br>
+<a href=".?query=tag:php" class="tag" target="_blank" rel="noopener">#php</a><br>
+<a data-href="Woocommerce" href="snippets\wordpress\woocommerce.html" class="internal-link" target="_self" rel="noopener">Woocommerce</a>]]></description><link>snippets\wordpress\woocommerce\add-rights-to-shop-manager.html</link><guid isPermaLink="false">Snippets/wordpress/WooCommerce/add rights to shop manager.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Add text before chjeckout form]]></title><description><![CDATA[ 
+ <br><br>    add_action( 'woocommerce_email_after_order_table', 'wc_add_shipping_details_to_admin_emails', 15, 2 );
+function wc_add_shipping_details_to_admin_emails( $order, $is_admin_email ) {
+    if ( $is_admin_email ) {
+        
+        echo "&lt;p&gt;TEXT&lt;/p&gt;";
+     
+
+
+}
+}
+
+Kopieren]]></description><link>snippets\wordpress\woocommerce\add-text-before-chjeckout-form.html</link><guid isPermaLink="false">Snippets/wordpress/WooCommerce/Add text before chjeckout form.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Add text to new order email]]></title><description><![CDATA[ 
+ <br>    add_action( 'woocommerce_email_after_order_table', 'wc_add_shipping_details_to_admin_emails', 15, 2 );
+function wc_add_shipping_details_to_admin_emails( $order, $is_admin_email ) {
+    if ( $is_admin_email ) {
+        
+        echo "&lt;p&gt;TEXT&lt;/p&gt;";
+     
+
+
+}
+}
+Kopieren]]></description><link>snippets\wordpress\woocommerce\add-text-to-new-order-email.html</link><guid isPermaLink="false">Snippets/wordpress/WooCommerce/Add text to new order email.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Add text to thank-you page]]></title><description><![CDATA[ 
+ <br>add_action('woocommerce_before_thankyou', 'webroom_custom_bank_thankyou_message', 5);
+function webroom_custom_bank_thankyou_message(){
+    echo '&lt;p&gt;&lt;strong&gt;Vielen Dank für Ihre Bestellung.&lt;/strong&gt;&lt;/p&gt;';
+    echo "&lt;p&gt;Sie erhalten in Kürze eine E-Mail an die von Ihnen angegebene Adresse mit weiteren Informationen.&lt;/p&gt;";
+}
+Kopieren]]></description><link>snippets\wordpress\woocommerce\add-text-to-thank-you-page.html</link><guid isPermaLink="false">Snippets/wordpress/WooCommerce/Add text to thank-you page.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Change maximum products in api]]></title><description><![CDATA[ 
+ <br>function maximum_api_filter($query_params) {
+    $query_params['per_page']['maximum'] = 1000;
+    $query_params['per_page']['default'] = 100;
+//    $query_params['product_cat'] = 1025;
+    return $query_params;
+}
+add_filter('rest_product_collection_params', 'maximum_api_filter', 10, 1 );
+Kopieren]]></description><link>snippets\wordpress\woocommerce\change-maximum-products-in-api.html</link><guid isPermaLink="false">Snippets/wordpress/WooCommerce/Change maximum products in api.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Change not in stock text]]></title><description><![CDATA[ 
+ <br>add_filter('woocommerce_get_availability_text', function ($text, $product) {
+	if (!$product-&gt;is_in_stock()) {
+		$text = ' Bitte sprechen Sie Ihre Filiale an.'; // Text anpassen
+		$text = ' Ihr persönliches Angebot&lt;br&gt;jetzt anfragen.'; // Text anpassen
+	}
+
+	return $text;
+}, 10, 2);
+Kopieren]]></description><link>snippets\wordpress\woocommerce\change-not-in-stock-text.html</link><guid isPermaLink="false">Snippets/wordpress/WooCommerce/Change not in stock text.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Change order of table in checkout]]></title><description><![CDATA[ 
+ <br>add_filter( 'woocommerce_get_order_item_totals', 'reordering_order_item_totals', 10, 3 );
+function reordering_order_item_totals( $total_rows, $order, $tax_display = '' ){
+    // Only on "order received" thankyou page
+    if ( ! is_wc_endpoint_url('order-received') )
+        return $total_rows;
+
+    $sorted_items_end  = array('cart_subtotal', 'de-mwst-19-de-1', 'order_total', 'payment_method');
+    $sorted_total_rows = array(); // Initializing
+
+    // Loop through sorted totals item keys
+    foreach( $sorted_items_end as $item_key ) {
+        if( isset($total_rows[$item_key]) ) {
+            $sorted_total_rows[$item_key] = $total_rows[$item_key]; // Save sorted data in a new array
+            unset($total_rows[$item_key]); // Remove sorted data from default array
+        }
+    }
+
+    return array_merge( $total_rows, $sorted_total_rows); // merge arrays
+}
+Kopieren]]></description><link>snippets\wordpress\woocommerce\change-order-of-table-in-checkout.html</link><guid isPermaLink="false">Snippets/wordpress/WooCommerce/Change order of table in checkout.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[change payment based on roles]]></title><description><![CDATA[ 
+ <br>add_filter( 'woocommerce_available_payment_gateways', 'bbloomer_paypal_disable_manager' );
+
+function bbloomer_paypal_disable_manager( $available_gateways ) {
+    $roles = wp_get_current_user()-&gt;roles;
+    if ( isset( $available_gateways['cod'] ) &amp;&amp; !in_array("kostenlos", $roles) ) {
+        unset( $available_gateways['cod'] );
+    }
+    if ( isset( $available_gateways['klarna_payments'] ) &amp;&amp; in_array("kostenlos", $roles) ) {
+        unset( $available_gateways['klarna_payments'] );
+    }
+
+    return $available_gateways;
+}
+Kopieren]]></description><link>snippets\wordpress\woocommerce\change-payment-based-on-roles.html</link><guid isPermaLink="false">Snippets/wordpress/WooCommerce/change payment based on roles.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[change shipping costs based on roles]]></title><description><![CDATA[ 
+ <br>add_filter( 'woocommerce_package_rates', 'woocommerce_package_rates' );
+function woocommerce_package_rates( $rates ) {
+    $roles = wp_get_current_user()-&gt;roles;
+    if ( !in_array("kostenlos", $roles) )  { return $rates; }
+    $discount_amount = 100; // 30%
+
+    foreach($rates as $key =&gt; $rate ) {
+        $rates[$key]-&gt;cost = $rates[$key]-&gt;cost - ( $rates[$key]-&gt;cost * ( $discount_amount/100 ) );
+    }
+
+    return $rates;
+}
+Kopieren]]></description><link>snippets\wordpress\woocommerce\change-shipping-costs-based-on-roles.html</link><guid isPermaLink="false">Snippets/wordpress/WooCommerce/change shipping costs based on roles.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Change shipping name]]></title><description><![CDATA[ 
+ <br>add_filter('woocommerce_shipping_package_name', 'custom_shipping_package_name');
+function custom_shipping_package_name($name)
+{
+	return 'Wertversand';
+}
+
+//Label aus Versandoptionen entfernen, sonst ist Wertversand doppelt vorhanden
+function ace_hide_shipping_title($label)
+{
+	$pos = strpos($label, ': ');
+	return substr($label, ++$pos);
+}
+add_filter('woocommerce_cart_shipping_method_full_label', 'ace_hide_shipping_title');
+Kopieren]]></description><link>snippets\wordpress\woocommerce\change-shipping-name.html</link><guid isPermaLink="false">Snippets/wordpress/WooCommerce/Change shipping name.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Check if product is already in cart]]></title><description><![CDATA[ 
+ <br>add_filter( 'woocommerce_add_to_cart_validation', 'allowed_products_variation_in_the_cart', 10, 5 );
+
+function allowed_products_variation_in_the_cart( $passed, $product_id, $quantity, $variation_id, $variations) {
+
+
+    foreach (WC()-&gt;cart-&gt;get_cart() as $cart_item_key =&gt; $cart_item) {
+        $cart_product_id = $cart_item['product_id'];
+
+        if ($cart_item['variation_id']) {
+            $cart_product_variation_id = $cart_item['variation_id'];
+
+        }
+
+        if ($product_id == $cart_product_id || $variation_id == $cart_product_variation_id) {
+
+            wc_add_notice(__('Sie können ein Medikament nicht zweimal anfordern.', 'domain'), 'error');
+            $passed = false; // don't add the new product to the cart
+            // We stop the loop
+            break;
+        }
+    }
+
+    return $passed;
+}
+Kopieren]]></description><link>snippets\wordpress\woocommerce\check-if-product-is-already-in-cart.html</link><guid isPermaLink="false">Snippets/wordpress/WooCommerce/Check if product is already in cart.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Clear cart by$_GET]]></title><description><![CDATA[ 
+ <br>add_action( 'init', 'woocommerce_clear_cart_url' );
+function woocommerce_clear_cart_url() {
+    if ( isset( $_GET['clear-cart'] ) ) {
+        global $woocommerce;
+        $woocommerce-&gt;cart-&gt;empty_cart();
+    }
+}
+Kopieren]]></description><link>snippets\wordpress\woocommerce\clear-cart-by$_get.html</link><guid isPermaLink="false">Snippets/wordpress/WooCommerce/Clear cart by$_GET.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Disable WooCommerce sidebar]]></title><description><![CDATA[ 
+ <br>function disable_woo_commerce_sidebar() {
+    remove_action( 'woocommerce_sidebar', 'woocommerce_get_sidebar', 10);
+}
+add_action('init', 'disable_woo_commerce_sidebar');
+Kopieren]]></description><link>snippets\wordpress\woocommerce\disable-woocommerce-sidebar.html</link><guid isPermaLink="false">Snippets/wordpress/WooCommerce/Disable WooCommerce sidebar.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[display product variation in archive]]></title><description><![CDATA[ 
+ <br>add_filter('woocommerce_loop_add_to_cart_link', 'woo_display_variation_dropdown_on_shop_page');
+
+function woo_display_variation_dropdown_on_shop_page()
+{
+
+    global $product;
+    if ($product-&gt;is_type('variable')) {
+        wp_enqueue_script('wc-add-to-cart-variation');
+        $attribute_keys = array_keys($product-&gt;get_variation_attributes());
+        ?&gt;
+        &lt;form class="variations_form cart" method="post" enctype='multipart/form-data' data-product_id="&lt;?php echo absint($product-&gt;id); ?&gt;" data-product_variations="&lt;?php echo htmlspecialchars(json_encode($product-&gt;get_available_variations())) ?&gt;"&gt;
+            &lt;?php do_action('woocommerce_before_variations_form'); ?&gt;
+            &lt;?php if (empty($product-&gt;get_available_variations()) &amp;&amp; false !== $product-&gt;get_available_variations()) : ?&gt;
+                &lt;p class="stock out-of-stock"&gt;
+                    &lt;?php _e('This product is currently out of stock and unavailable.', 'woocommerce'); ?&gt;
+                &lt;/p&gt;
+            &lt;?php else : ?&gt;
+                &lt;table class="variations" cellspacing="0"&gt;
+                    &lt;tbody&gt;
+                    &lt;?php
+                    $id = 0;
+                    foreach ($product-&gt;get_variation_attributes() as $attribute_name =&gt; $options) :
+                        $id = $id+1;
+
+                        ?&gt;
+                        &lt;tr&gt;
+                            &lt;!--                        &lt;td class="label"&gt;&lt;label for="--&gt;&lt;?php //echo sanitize_title( $attribute_name );
+                            ?&gt;
+                            &lt;!--"&gt;--&gt;&lt;?php //echo wc_attribute_label( $attribute_name );
+                            ?&gt;
+                            &lt;!--&lt;/label&gt;&lt;/td&gt;--&gt;
+                            &lt;td class="value"&gt;
+                                &lt;?php
+                                $selected = isset($_REQUEST['attribute_' . sanitize_title($attribute_name)]) ? wc_clean(urldecode($_REQUEST['attribute_' . sanitize_title($attribute_name)])) : $product-&gt;get_variation_default_attribute($attribute_name);
+                                wc_dropdown_variation_attribute_options(array('options' =&gt; $options, 'attribute' =&gt; $attribute_name, 'product' =&gt; $product, 'selected' =&gt; $selected, 'id' =&gt; $product-&gt;id));
+                                //                                    wc_dropdown_variation_attribute_options(array('options' =&gt; $options, 'attribute' =&gt; $attribute_name, 'product' =&gt; $product, 'selected' =&gt; $selected, 'id' =&gt; $product-&gt;id));
+                                ?&gt;
+                            &lt;/td&gt;
+                        &lt;/tr&gt;
+                    &lt;?php endforeach; ?&gt;
+                    &lt;/tbody&gt;
+                &lt;/table&gt;
+                &lt;div class="single_variation_wrap"&gt;
+                    &lt;?php $result = woocommerce_single_variation_add_to_cart_button(); ?&gt;
+                &lt;/div&gt;
+                &lt;?php do_action('woocommerce_after_add_to_cart_button'); ?&gt;
+            &lt;?php endif; ?&gt;
+            &lt;?php do_action('woocommerce_after_variations_form'); ?&gt;
+        &lt;/form&gt;
+    &lt;?php } else {
+        do_action('woocommerce_before_add_to_cart_form'); ?&gt;
+        &lt;form class="cart" action="&lt;?php echo esc_url(apply_filters('woocommerce_add_to_cart_form_action', $product-&gt;get_permalink())); ?&gt;" method="post" enctype='multipart/form-data'&gt;
+            &lt;?php do_action('woocommerce_before_add_to_cart_button'); ?&gt;
+            &lt;?php
+            do_action('woocommerce_before_add_to_cart_quantity');
+            woocommerce_quantity_input(array(
+                'min_value'   =&gt; apply_filters('woocommerce_quantity_input_min', $product-&gt;get_min_purchase_quantity(), $product),
+                'max_value'   =&gt; apply_filters('woocommerce_quantity_input_max', $product-&gt;get_max_purchase_quantity(), $product),
+                'input_value' =&gt; isset($_POST['quantity']) ? wc_stock_amount(wp_unslash($_POST['quantity'])) : $product-&gt;get_min_purchase_quantity(), // WPCS: CSRF ok, input var ok.
+            ));
+            do_action('woocommerce_after_add_to_cart_quantity');
+            ?&gt;
+            &lt;button type="submit" name="add-to-cart" value="&lt;?php echo esc_attr($product-&gt;get_id()); ?&gt;" class="single_add_to_cart_button button alt xx"&gt;&lt;?php echo esc_html($product-&gt;add_to_cart_text()); ?&gt;&lt;/button&gt;
+            &lt;?php do_action('woocommerce_after_add_to_cart_button'); ?&gt;
+        &lt;/form&gt;
+        &lt;?php do_action('woocommerce_after_add_to_cart_form');
+    }
+}
+
+Kopieren]]></description><link>snippets\wordpress\woocommerce\display-product-variation-in-archive.html</link><guid isPermaLink="false">Snippets/wordpress/WooCommerce/display product variation in archive.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Display specific product attributes in cart items on cart and checkout pages]]></title><description><![CDATA[ 
+ <br>add_filter('woocommerce_get_item_data', 'display_cart_item_custom_data_on_cart_and_checkout', 10, 2);
+
+function display_cart_item_custom_data_on_cart_and_checkout($cart_item_data, $cart_item)
+{
+
+	$produktDaten = array('pa_hersteller', 'pa_legierung', 'pa_material', 'pa_ringgroesse', 'pa_steinbesatz');
+	//print_r($cart_item);
+	foreach ($produktDaten as $taxonomy) {
+		if (!empty($cart_item['variation'])) {
+			//if (isset($cart_item['variation'])) {
+			if (isset($cart_item['variation'][$taxonomy])) {
+				$cart_item_data[] = array(
+					'name'  =&gt; get_taxonomy($taxonomy)-&gt;labels-&gt;name,
+					'value' =&gt; $cart_item['variation'][$taxonomy]
+				);
+			}
+		} else {
+
+			if ($cart_item['data']-&gt;get_attribute($taxonomy)) {
+				$cart_item_data[] = array(
+					'name'  =&gt; wc_attribute_label($taxonomy),
+					'value' =&gt; $cart_item['data']-&gt;get_attribute($taxonomy),
+				);
+			}
+		}
+	}
+
+	return $cart_item_data;
+}
+Kopieren]]></description><link>snippets\wordpress\woocommerce\display-specific-product-attributes-in-cart-items-on-cart-and-checkout-pages.html</link><guid isPermaLink="false">Snippets/wordpress/WooCommerce/Display specific product attributes in cart items on cart and checkout pages.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Germanized Change Labels]]></title><description><![CDATA[<a class="tag" href="?query=tag:wordpress" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#wordpress</a> <a class="tag" href="?query=tag:woocommerce" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#woocommerce</a> 
+ <br><br>&lt;?php
+
+add_filter( 'woocommerce_default_address_fields' , 'mn_override_street_field' );
+
+// Our hooked in function - $address_fields is passed via the filter!
+function mn_override_street_field( $fields ) {
+     $fields['address_1']['label'] = "Straßenname und &lt;b&gt;Hausnummer&lt;/b&gt;";
+     return $fields;
+}
+
+?&gt;
+
+Kopieren<br><br><a href=".?query=tag:wordpress" class="tag" target="_blank" rel="noopener">#wordpress</a><br>
+<a href=".?query=tag:woocommerce" class="tag" target="_blank" rel="noopener">#woocommerce</a><br>
+<a data-href="link" href="link" class="internal-link" target="_self" rel="noopener">link</a>]]></description><link>snippets\wordpress\woocommerce\germanized-change-labels.html</link><guid isPermaLink="false">Snippets/wordpress/WooCommerce/Germanized Change Labels.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Germanized_add_shortcode_to_invoice]]></title><description><![CDATA[<a class="tag" href="?query=tag:wordpress" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#wordpress</a> <a class="tag" href="?query=tag:woocommerce" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#woocommerce</a> <a class="tag" href="?query=tag:germanized" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#germanized</a> 
+ <br><br>Damit wird der Shortcode [leistungszeitraum] erstellt, der in der Germanized PDF-Rechnung angezeigt werden kann. <br>add_filter( 'storeabill_document_shortcodes', function( $shortcodes, $shortcode_instance ) {
+    /**
+     * @param array $atts
+     * @var \Vendidero\StoreaBill\Document\Shortcodes $shortcode_instance
+     *
+     * @return string
+     */
+    $shortcodes['leistungszeitraum'] = function( $atts, $content = '' ) use ( $shortcode_instance ) {
+       if (!isset($_GET['preview'])) {
+           if (!isset($_GET['action']) || $_GET['action'] != "edit") {
+
+               global $wpdb;
+               $table = $wpdb-&gt;prefix . 'uam_accessgroup_to_object';
+               $time = date('d.m.Y', strtotime('now'));
+
+
+               $document = $shortcode_instance-&gt;get_document();
+               $orderNr = $document-&gt;get_order_number();
+               $order = wc_get_order($orderNr);
+               $user_id = $order-&gt;get_user_id();
+
+               $expiry = $wpdb-&gt;get_results("SELECT * FROM $table WHERE (group_id BETWEEN 7 AND 8) AND object_id = '$user_id'");
+               $expiryDate = date('d.m.Y', strtotime($expiry[0]-&gt;to_date));
+
+
+               $content = "Leistungszeitraum: " . $time . " bis " . $expiryDate;
+//           $content = "Edit/Preview";
+               return $content;
+           }
+       } else {
+           $content = "Leistungszeitraum: 01.01.2023 bis 31.12.2023";
+           return $content;
+       }
+    };
+
+    return $shortcodes;
+}, 10, 2 );
+Kopieren<br><br><a href=".?query=tag:wordpress" class="tag" target="_blank" rel="noopener">#wordpress</a><br>
+<a href=".?query=tag:woocommerce" class="tag" target="_blank" rel="noopener">#woocommerce</a><br>
+<a href=".?query=tag:germanized" class="tag" target="_blank" rel="noopener">#germanized</a><br>
+<a data-href="link" href="link" class="internal-link" target="_self" rel="noopener">link</a>]]></description><link>snippets\wordpress\woocommerce\germanized_add_shortcode_to_invoice.html</link><guid isPermaLink="false">Snippets/wordpress/WooCommerce/Germanized_add_shortcode_to_invoice.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Reduce password strength]]></title><description><![CDATA[<a class="tag" href="?query=tag:php" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#php</a> <a class="tag" href="?query=tag:woocommerce" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#woocommerce</a> 
+ <br><br>add_filter( 'woocommerce_min_password_strength', 'reduce_min_strength_password_requirement' );
+function reduce_min_strength_password_requirement( $strength ) {
+    // 3 =&gt; Strong (default) | 2 =&gt; Medium | 1 =&gt; Weak | 0 =&gt; Very Weak (anything).
+    return 1;
+}
+Kopieren<br><br><a href=".?query=tag:php" class="tag" target="_blank" rel="noopener">#php</a><br>
+<a href=".?query=tag:woocommerce" class="tag" target="_blank" rel="noopener">#woocommerce</a><br>
+<a data-href="Woocommerce" href="snippets\wordpress\woocommerce.html" class="internal-link" target="_self" rel="noopener">Woocommerce</a>]]></description><link>snippets\wordpress\woocommerce\reduce-password-strength.html</link><guid isPermaLink="false">Snippets/wordpress/WooCommerce/Reduce password strength.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Remove field from checkout]]></title><description><![CDATA[<a class="tag" href="?query=tag:php" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#php</a> <a class="tag" href="?query=tag:woocommerce" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#woocommerce</a> 
+ <br><br>function wpcorner_override_checkout_fields($fields)
+{
+    unset($fields['order']['order_comments']);
+    return $fields;
+}
+add_filter( 'woocommerce_checkout_fields' , 'wpcorner_override_checkout_fields' );
+Kopieren<br><br><a href=".?query=tag:php" class="tag" target="_blank" rel="noopener">#php</a><br>
+<a href=".?query=tag:woocommerce" class="tag" target="_blank" rel="noopener">#woocommerce</a>]]></description><link>snippets\wordpress\woocommerce\remove-field-from-checkout.html</link><guid isPermaLink="false">Snippets/wordpress/WooCommerce/Remove field from checkout.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Remove link top attribute archive]]></title><description><![CDATA[<a class="tag" href="?query=tag:php" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#php</a> <a class="tag" href="?query=tag:woocommerce" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#woocommerce</a> 
+ <br><br>add_filter('woocommerce_attribute', 'filter_woocommerce_attribute_value', 99);
+function filter_woocommerce_attribute_value($value)
+{
+	return preg_replace('#&lt;a.*?&gt;([^&gt;]*)&lt;/a&gt;#i', '$1', $value);
+}
+Kopieren<br><br><a href=".?query=tag:php" class="tag" target="_blank" rel="noopener">#php</a><br>
+<a href=".?query=tag:woocommerce" class="tag" target="_blank" rel="noopener">#woocommerce</a>]]></description><link>snippets\wordpress\woocommerce\remove-link-top-attribute-archive.html</link><guid isPermaLink="false">Snippets/wordpress/WooCommerce/Remove link top attribute archive.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Rename check-out button]]></title><description><![CDATA[<a class="tag" href="?query=tag:php" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#php</a> <a class="tag" href="?query=tag:woocommerce" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#woocommerce</a> 
+ <br><br>
+function woocommerce_button_proceed_to_checkout() { ?&gt;
+    &lt;a href="&lt;?php echo esc_url( wc_get_checkout_url() ); ?&gt;" class="checkout-button button alt wc-forward"&gt;
+        &lt;?php esc_html_e( 'Weiter zu den Bestell- und Rechnungsangaben', 'woocommerce' ); ?&gt;
+    &lt;/a&gt;
+    &lt;?php
+}
+
+
+
+Kopieren<br><br><a href=".?query=tag:php" class="tag" target="_blank" rel="noopener">#php</a><br>
+<a href=".?query=tag:woocommerce" class="tag" target="_blank" rel="noopener">#woocommerce</a>]]></description><link>snippets\wordpress\woocommerce\rename-check-out-button.html</link><guid isPermaLink="false">Snippets/wordpress/WooCommerce/Rename check-out button.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Rename Home in Breadcrumb]]></title><description><![CDATA[<a class="tag" href="?query=tag:php" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#php</a> <a class="tag" href="?query=tag:woocommerce" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#woocommerce</a> 
+ <br><br>
+add_filter( 'woocommerce_breadcrumb_defaults', 'wcc_change_breadcrumb_home_text' );
+function wcc_change_breadcrumb_home_text( $defaults ) {
+    // Change the breadcrumb home text from 'Home' to 'Apartment'
+    $defaults['home'] = '';
+    return $defaults;
+}
+
+
+Kopieren<br><br><a href=".?query=tag:php" class="tag" target="_blank" rel="noopener">#php</a><br>
+<a href=".?query=tag:woocommerce" class="tag" target="_blank" rel="noopener">#woocommerce</a>]]></description><link>snippets\wordpress\woocommerce\rename-home-in-breadcrumb.html</link><guid isPermaLink="false">Snippets/wordpress/WooCommerce/Rename Home in Breadcrumb.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Replace Check-out fields]]></title><description><![CDATA[<a class="tag" href="?query=tag:php" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#php</a> <a class="tag" href="?query=tag:woocommerce" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#woocommerce</a> 
+ <br><br>
+add_filter( 'woocommerce_checkout_fields' , 'custom_override_checkout_fields' );
+
+function custom_override_checkout_fields( $fields ) {
+    $fields['billing']['billing_company']['label'] = 'Praxisbezeichnung';
+    $fields['billing']['billing_company']['label'] = 'Praxisbezeichnung';
+    $fields['billing']['billing_company']['required'] = true;
+    return $fields;
+}
+
+
+Kopieren<br><br><a href=".?query=tag:php" class="tag" target="_blank" rel="noopener">#php</a><br>
+<a href=".?query=tag:woocommerce" class="tag" target="_blank" rel="noopener">#woocommerce</a>]]></description><link>snippets\wordpress\woocommerce\replace-check-out-fields.html</link><guid isPermaLink="false">Snippets/wordpress/WooCommerce/Replace Check-out fields.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Replace product-img alt-tag]]></title><description><![CDATA[<a class="tag" href="?query=tag:php" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#php</a> <a class="tag" href="?query=tag:woocommerce" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#woocommerce</a> 
+ <br><br>
+add_action( 'woocommerce_before_shop_loop_item_title', 'um_get_product_image', 10 );
+
+function um_get_product_image($product) {
+    global $product;
+    $terms = $product-&gt;get_categories();
+
+ echo "&lt;img src='" .  wp_get_attachment_url( $product-&gt;get_image_id() ) . "' alt='" . $terms ."'/&gt;";
+
+}
+
+
+Kopieren<br><br><a href=".?query=tag:php" class="tag" target="_blank" rel="noopener">#php</a><br>
+<a href=".?query=tag:woocommerce" class="tag" target="_blank" rel="noopener">#woocommerce</a>]]></description><link>snippets\wordpress\woocommerce\replace-product-img-alt-tag.html</link><guid isPermaLink="false">Snippets/wordpress/WooCommerce/Replace product-img alt-tag.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Cors Header für iframe setzen]]></title><description><![CDATA[<a class="tag" href="?query=tag:php" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#php</a> <a class="tag" href="?query=tag:wordpress" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#wordpress</a> 
+ <br><br>//############################ CORS-Header setzen ######################################
+add_action( 'send_headers', 'add_header_xua' );
+function add_header_xua() {
+    header( 'Content-Security-Policy: frame-ancestors https://ec.dr-rausch-ulm.de/ https://www.dr-rausch-ulm.de/' );
+
+}
+
+add_action('wp_head', 'iframe_load_setup');
+function iframe_load_setup() {
+
+    remove_action( 'login_init', 'send_frame_options_header', 10, 0 );
+
+}
+Kopieren<br><br><a href=".?query=tag:php" class="tag" target="_blank" rel="noopener">#php</a><br>
+<a href=".?query=tag:wordpress" class="tag" target="_blank" rel="noopener">#wordpress</a><br>
+<a data-href="wordpress" href="wordpress" class="internal-link" target="_self" rel="noopener">wordpress</a>]]></description><link>snippets\wordpress\cors-header-für-iframe-setzen.html</link><guid isPermaLink="false">Snippets/wordpress/Cors Header für iframe setzen.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Elementor Fonts nicht nachladen]]></title><description><![CDATA[<a class="tag" href="?query=tag:php" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#php</a> <a class="tag" href="?query=tag:wordpress" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#wordpress</a> <a class="tag" href="?query=tag:astra" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#astra</a> <a class="tag" href="?query=tag:elementor" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#elementor</a> 
+ <br><br>add_filter('astra_google_fonts_selected', '__return_empty_array');
+add_filter( 'elementor/frontend/print_google_fonts', '__return_false' );
+Kopieren<br><br><a href=".?query=tag:php" class="tag" target="_blank" rel="noopener">#php</a><br>
+<a href=".?query=tag:wordpress" class="tag" target="_blank" rel="noopener">#wordpress</a><br>
+<a href=".?query=tag:astra" class="tag" target="_blank" rel="noopener">#astra</a><br>
+<a href=".?query=tag:elementor" class="tag" target="_blank" rel="noopener">#elementor</a><br>
+<a data-href="wordpress" href="wordpress" class="internal-link" target="_self" rel="noopener">wordpress</a>]]></description><link>snippets\wordpress\elementor-fonts-nicht-nachladen.html</link><guid isPermaLink="false">Snippets/wordpress/Elementor Fonts nicht nachladen.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Filter für Posts]]></title><description><![CDATA[<a class="tag" href="?query=tag:php" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#php</a> <a class="tag" href="?query=tag:wordpress" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#wordpress</a> 
+ <br><br>add_action( 'restrict_manage_posts', 'form_select' );
+add_action( 'pre_get_posts', 'query_filter' );
+//add_action( 'admin_enqueue_scripts', 'jqueryui' );
+
+function form_select() {
+    $post_type = ( isset($_GET['post_type']) ) ? $_GET['post_type'] : 'jobs';
+
+    if ($post_type == 'jobs') {
+        // please use unique name
+        $from = ( isset( $_GET['pe_date'] ) &amp;&amp; $_GET['pe_date'] ) ? $_GET['pe_date'] : '';
+        $current_status = $_GET['pe_status'] ?? '';
+        $statuses = array('Inaktiv', 'Aktiv');
+
+        $companies = new WP_Query(array(
+            'post_type' =&gt; 'company',
+            'post_status' =&gt; 'publish',
+            'posts_per_page' =&gt; -1,
+            'orderby' =&gt; "post_title",
+            'order' =&gt; "ASC"
+        ));
+        $companies = $companies-&gt;posts;
+        ?&gt;
+        &lt;select name="filter_company" id="filter_company"&gt;
+            &lt;option value=""&gt;Alle Firmen&lt;/option&gt;
+            &lt;?php
+            foreach ($companies as $company) {
+                echo "&lt;option value='" . $company-&gt;ID . "'&gt;" . $company-&gt;post_title . "&lt;/option&gt;";
+            }
+            ?&gt;
+        &lt;/select&gt;
+
+        &lt;select name="pe_status"&gt;
+            &lt;option value="" &lt;?php if (!isset($_GET['pe_status']) || $_GET['pe_status'] == '') {echo "selected";} ?&gt;&gt;&lt;?= __('Aktiv &amp; Inaktiv', 'projectsengine'); ?&gt;&lt;/option&gt;
+            &lt;option value="1" &lt;?php if (isset($_GET['pe_status']) &amp;&amp; $_GET['pe_status'] == 1) {echo "selected";} ?&gt;&gt;&lt;?= __('Aktiv', 'projectsengine'); ?&gt;&lt;/option&gt;
+            &lt;option value="2" &lt;?php if (isset($_GET['pe_status']) &amp;&amp; $_GET['pe_status'] == 2) {echo "selected";} ?&gt;&gt;&lt;?= __('Inaktiv', 'projectsengine'); ?&gt;&lt;/option&gt;
+        &lt;/select&gt;
+
+        &lt;?php
+    }
+    wp_reset_query();
+}
+
+function query_filter( $admin_query ) {
+    global $pagenow;
+    $post_type = (isset($_GET['post_type'])) ? $_GET['post_type'] : 'jobs';
+
+    if ( $post_type == 'jobs' &amp;&amp; $pagenow == 'edit.php' ) {
+//        echo "Status: " . $_GET['pe_status'] . "&lt;br&gt;";
+        if ( isset( $_GET['pe_status'] ) &amp;&amp; ! empty( $_GET['pe_status'] ) &amp;&amp; (!isset( $_GET['filter_company'] )  || empty( $_GET['filter_company'] ))) {
+            $admin_query-&gt;set('meta_key', 'is_active');
+            $admin_query-&gt;set('meta_value', $_GET['pe_status']);
+        }
+//
+        if ( isset( $_GET['filter_company'] ) &amp;&amp; ! empty( $_GET['filter_company'] ) &amp;&amp; (!isset( $_GET['pe_status'] ) || empty( $_GET['pe_status'] ))) {
+            $admin_query-&gt;set('meta_key', 'company_id');
+            $admin_query-&gt;set('meta_value', $_GET['filter_company']);
+        }
+
+        if ( isset( $_GET['filter_company'] ) &amp;&amp; ! empty( $_GET['filter_company'] ) &amp;&amp; isset( $_GET['pe_status'] ) &amp;&amp; !empty( $_GET['pe_status'] ) ) {
+
+            $meta_query[] = array(
+                'relation' =&gt; 'AND',
+                array(
+                    'key' =&gt; 'company_id',
+                    'value' =&gt; $_GET['filter_company'],
+                    'compare' =&gt; '='
+                ),
+
+                array(
+                    'key' =&gt; 'is_active',
+                    'value' =&gt; $_GET['pe_status'],
+                    'compare' =&gt; '='
+                )
+            );
+
+            $admin_query-&gt;set('meta_query', $meta_query);
+        }
+    }
+
+    return $admin_query;
+}
+Kopieren<br><br><a href=".?query=tag:php" class="tag" target="_blank" rel="noopener">#php</a><br>
+<a href=".?query=tag:wordpress" class="tag" target="_blank" rel="noopener">#wordpress</a><br>
+<a data-href="wordpress" href="wordpress" class="internal-link" target="_self" rel="noopener">wordpress</a>]]></description><link>snippets\wordpress\filter-für-posts.html</link><guid isPermaLink="false">Snippets/wordpress/Filter für Posts.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Frameworks]]></title><description><![CDATA[<a class="tag" href="?query=tag:wordpress" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#wordpress</a> 
+ <br><br><a rel="noopener" class="external-link" href="https://underscores.me/" target="_blank">https://underscores.me/</a><br><a rel="noopener" class="external-link" href="https://de.wordpress.org/plugins/timber-library/" target="_blank">https://de.wordpress.org/plugins/timber-library/</a><br><a rel="noopener" class="external-link" href="https://roots.io/sage/" target="_blank">https://roots.io/sage/</a><br><br><a href=".?query=tag:wordpress" class="tag" target="_blank" rel="noopener">#wordpress</a><br>
+<a data-href="wordpress" href="wordpress" class="internal-link" target="_self" rel="noopener">wordpress</a>]]></description><link>snippets\wordpress\frameworks.html</link><guid isPermaLink="false">Snippets/wordpress/Frameworks.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Future Posts]]></title><description><![CDATA[<a class="tag" href="?query=tag:php" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#php</a> <a class="tag" href="?query=tag:wordpress" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#wordpress</a> 
+ <br><br>function onetarek_prevent_future_type( $post_data ) {
+    if ( $post_data['post_status'] == 'future' &amp;&amp; $post_data['post_type'] == 'post' )
+    {
+        $post_data['post_status'] = 'publish';
+    }
+    return $post_data;
+}
+
+add_filter('wp_insert_post_data', 'onetarek_prevent_future_type');
+remove_action('future_post', '_future_post_hook');
+Kopieren<br><br><a href=".?query=tag:php" class="tag" target="_blank" rel="noopener">#php</a><br>
+<a href=".?query=tag:wordpress" class="tag" target="_blank" rel="noopener">#wordpress</a><br>
+<a data-href="wordpress" href="wordpress" class="internal-link" target="_self" rel="noopener">wordpress</a>]]></description><link>snippets\wordpress\future-posts.html</link><guid isPermaLink="false">Snippets/wordpress/Future Posts.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[WooCommerce]]></title><description><![CDATA[ 
+ <br><br>
+<br><a data-href="Add  product attributes to email" href="snippets\wordpress\woocommerce\add-product-attributes-to-email.html" class="internal-link" target="_self" rel="noopener">Add  product attributes to email</a>
+<br><a data-href="Add fields to check out" href="snippets\wordpress\woocommerce\add-fields-to-check-out.html" class="internal-link" target="_self" rel="noopener">Add fields to check out</a>
+<br><a data-href="Add text to new order email" href="snippets\wordpress\woocommerce\add-text-to-new-order-email.html" class="internal-link" target="_self" rel="noopener">Add text to new order email</a>
+<br><a data-href="Add text to thank-you page" href="snippets\wordpress\woocommerce\add-text-to-thank-you-page.html" class="internal-link" target="_self" rel="noopener">Add text to thank-you page</a>
+<br><a data-href="Change maximum products in api" href="snippets\wordpress\woocommerce\change-maximum-products-in-api.html" class="internal-link" target="_self" rel="noopener">Change maximum products in api</a>
+<br><a data-href="Change not in stock text" href="snippets\wordpress\woocommerce\change-not-in-stock-text.html" class="internal-link" target="_self" rel="noopener">Change not in stock text</a>
+<br><a data-href="Change order of table in checkout" href="snippets\wordpress\woocommerce\change-order-of-table-in-checkout.html" class="internal-link" target="_self" rel="noopener">Change order of table in checkout</a>
+<br><a data-href="change payment based on roles" href="snippets\wordpress\woocommerce\change-payment-based-on-roles.html" class="internal-link" target="_self" rel="noopener">change payment based on roles</a>
+<br><a data-href="change shipping costs based on roles" href="snippets\wordpress\woocommerce\change-shipping-costs-based-on-roles.html" class="internal-link" target="_self" rel="noopener">change shipping costs based on roles</a>
+<br><a data-href="Change shipping name" href="snippets\wordpress\woocommerce\change-shipping-name.html" class="internal-link" target="_self" rel="noopener">Change shipping name</a>
+<br><a data-href="Check if product is already in cart" href="snippets\wordpress\woocommerce\check-if-product-is-already-in-cart.html" class="internal-link" target="_self" rel="noopener">Check if product is already in cart</a>
+<br><a data-href="Clear cart by$_GET" href="snippets\wordpress\woocommerce\clear-cart-by$_get.html" class="internal-link" target="_self" rel="noopener">Clear cart by$_GET</a>
+<br><a data-href="Disable WooCommerce sidebar" href="snippets\wordpress\woocommerce\disable-woocommerce-sidebar.html" class="internal-link" target="_self" rel="noopener">Disable WooCommerce sidebar</a>
+<br><a data-href="display product variation in archive" href="snippets\wordpress\woocommerce\display-product-variation-in-archive.html" class="internal-link" target="_self" rel="noopener">display product variation in archive</a>
+<br><a data-href="Display specific product attributes in cart items on cart and checkout pages" href="snippets\wordpress\woocommerce\display-specific-product-attributes-in-cart-items-on-cart-and-checkout-pages.html" class="internal-link" target="_self" rel="noopener">Display specific product attributes in cart items on cart and checkout pages</a>
+<br><a data-href="Add text before chjeckout form" href="snippets\wordpress\woocommerce\add-text-before-chjeckout-form.html" class="internal-link" target="_self" rel="noopener">Add text before chjeckout form</a>
+<br><a data-href="Add fields to check out" href="snippets\wordpress\woocommerce\add-fields-to-check-out.html" class="internal-link" target="_self" rel="noopener">Add fields to check out</a>
+<br><a data-href="Add link to change product before cart" href="snippets\wordpress\woocommerce\add-link-to-change-product-before-cart.html" class="internal-link" target="_self" rel="noopener">Add link to change product before cart</a>
+<br><a data-href="add new role for customers" href="snippets\wordpress\woocommerce\add-new-role-for-customers.html" class="internal-link" target="_self" rel="noopener">add new role for customers</a>
+<br><a data-href="Add prefix to variant prices" href="snippets\wordpress\woocommerce\add-prefix-to-variant-prices.html" class="internal-link" target="_self" rel="noopener">Add prefix to variant prices</a>
+<br><a data-href="Add price suffix" href="snippets\wordpress\woocommerce\add-price-suffix.html" class="internal-link" target="_self" rel="noopener">Add price suffix</a>
+<br><a data-href="add rights to shop manager" href="snippets\wordpress\woocommerce\add-rights-to-shop-manager.html" class="internal-link" target="_self" rel="noopener">add rights to shop manager</a>
+<br><a data-href="Reduce password strength" href="snippets\wordpress\woocommerce\reduce-password-strength.html" class="internal-link" target="_self" rel="noopener">Reduce password strength</a>
+<br><a data-href="Remove field from checkout" href="snippets\wordpress\woocommerce\remove-field-from-checkout.html" class="internal-link" target="_self" rel="noopener">Remove field from checkout</a>
+<br><a data-href="Remove link top attribute archive" href="snippets\wordpress\woocommerce\remove-link-top-attribute-archive.html" class="internal-link" target="_self" rel="noopener">Remove link top attribute archive</a>
+<br><a data-href="Rename check-out button" href="snippets\wordpress\woocommerce\rename-check-out-button.html" class="internal-link" target="_self" rel="noopener">Rename check-out button</a>
+<br><a data-href="Rename Home in Breadcrumb" href="snippets\wordpress\woocommerce\rename-home-in-breadcrumb.html" class="internal-link" target="_self" rel="noopener">Rename Home in Breadcrumb</a>
+<br><a data-href="Replace Check-out fields" href="snippets\wordpress\woocommerce\replace-check-out-fields.html" class="internal-link" target="_self" rel="noopener">Replace Check-out fields</a>
+<br><a data-href="Replace product-img alt-tag" href="snippets\wordpress\woocommerce\replace-product-img-alt-tag.html" class="internal-link" target="_self" rel="noopener">Replace product-img alt-tag</a>
+<br><a data-href="wordpress" href="wordpress" class="internal-link" target="_self" rel="noopener">wordpress</a>]]></description><link>snippets\wordpress\woocommerce.html</link><guid isPermaLink="false">Snippets/wordpress/woocommerce.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Wordpress]]></title><description><![CDATA[ 
+ <br><br>
+<br><a data-href="Cors Header für iframe setzen" href="snippets\wordpress\cors-header-für-iframe-setzen.html" class="internal-link" target="_self" rel="noopener">Cors Header für iframe setzen</a>
+<br><a data-href="Elementor Fonts nicht nachladen" href="snippets\wordpress\elementor-fonts-nicht-nachladen.html" class="internal-link" target="_self" rel="noopener">Elementor Fonts nicht nachladen</a>
+<br><a data-href="Filter für Posts" href="snippets\wordpress\filter-für-posts.html" class="internal-link" target="_self" rel="noopener">Filter für Posts</a>
+<br><a data-href="Frameworks" href="snippets\wordpress\frameworks.html" class="internal-link" target="_self" rel="noopener">Frameworks</a>
+<br><a data-href="Future Posts" href="snippets\wordpress\future-posts.html" class="internal-link" target="_self" rel="noopener">Future Posts</a>
+<br><a data-href="Woocommerce" href="snippets\wordpress\woocommerce.html" class="internal-link" target="_self" rel="noopener">Woocommerce</a>
+<br><a data-href="Yoast SEO schön Ausgabe von schema.org" href="snippets\wordpress\yoast-seo-schön-ausgabe-von-schema.org.html" class="internal-link" target="_self" rel="noopener">Yoast SEO schön Ausgabe von schema.org</a>
+<br><a data-href="Yoast SEO Änderungen an schema.org" href="snippets\wordpress\yoast-seo-änderungen-an-schema.org.html" class="internal-link" target="_self" rel="noopener">Yoast SEO Änderungen an schema.org</a>
+<br><a data-href="Yoast Title holen" href="snippets\wordpress\yoast-title-holen.html" class="internal-link" target="_self" rel="noopener">Yoast Title holen</a>
+]]></description><link>snippets\wordpress\wordpess.html</link><guid isPermaLink="false">Snippets/wordpress/wordpess.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Yoast SEO Änderungen an schema.org]]></title><description><![CDATA[<a class="tag" href="?query=tag:php" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#php</a> <a class="tag" href="?query=tag:wordpress" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#wordpress</a> 
+ <br><br><a rel="noopener" class="external-link" href="https://developer.yoast.com/features/schema/api/" target="_blank">https://developer.yoast.com/features/schema/api/</a><br>add_filter('wpseo_schema_breadcrumblist', 'change_yoast_breadcrumb');
+
+function  change_yoast_breadcrumb($data) {
+    foreach ($data['itemListElement'] as $key=&gt;$element) {
+
+        $found = strpos($element['name'], "Privat: ");
+
+        if ($found == 0) {
+
+            $data['itemListElement'][$key]['name'] = str_replace("Privat: ", '', $element['name']);
+        }
+    }
+    return $data;
+}
+Kopieren<br><br><a href=".?query=tag:php" class="tag" target="_blank" rel="noopener">#php</a><br>
+<a href=".?query=tag:wordpress" class="tag" target="_blank" rel="noopener">#wordpress</a><br>
+<a data-href="wordpress" href="wordpress" class="internal-link" target="_self" rel="noopener">wordpress</a>]]></description><link>snippets\wordpress\yoast-seo-änderungen-an-schema.org.html</link><guid isPermaLink="false">Snippets/wordpress/Yoast SEO Änderungen an schema.org.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Yoast SEO schön Ausgabe von schema.org]]></title><description><![CDATA[<a class="tag" href="?query=tag:php" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#php</a> <a class="tag" href="?query=tag:wordpress" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#wordpress</a> 
+ <br><br>add_filter( 'yoast_seo_development_mode', '__return_true' );
+
+Kopieren<br><br><a href=".?query=tag:php" class="tag" target="_blank" rel="noopener">#php</a><br>
+<a href=".?query=tag:wordpress" class="tag" target="_blank" rel="noopener">#wordpress</a><br>
+<a data-href="wordpress" href="wordpress" class="internal-link" target="_self" rel="noopener">wordpress</a>]]></description><link>snippets\wordpress\yoast-seo-schön-ausgabe-von-schema.org.html</link><guid isPermaLink="false">Snippets/wordpress/Yoast SEO schön Ausgabe von schema.org.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Yoast Title holen]]></title><description><![CDATA[<a class="tag" href="?query=tag:php" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#php</a> <a class="tag" href="?query=tag:wordpress" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#wordpress</a> 
+ <br><br>    function get_post_title( WP_Post $post ): string {
+        $yoast_title = get_post_meta( $post-&gt;ID, '_yoast_wpseo_title', true );
+        if ( empty( $yoast_title ) ) {
+            $wpseo_titles = get_option( 'wpseo_titles', [] );
+            $yoast_title  = isset( $wpseo_titles[ 'title-' . $post-&gt;post_type ] ) ? $wpseo_titles[ 'title-' . $post-&gt;post_type ] : get_the_title();
+        }
+
+        return wpseo_replace_vars( $yoast_title, $post );
+    }
+Kopieren<br><br><a href=".?query=tag:php" class="tag" target="_blank" rel="noopener">#php</a><br>
+<a href=".?query=tag:wordpress" class="tag" target="_blank" rel="noopener">#wordpress</a><br>
+<a data-href="wordpress" href="wordpress" class="internal-link" target="_self" rel="noopener">wordpress</a>]]></description><link>snippets\wordpress\yoast-title-holen.html</link><guid isPermaLink="false">Snippets/wordpress/Yoast Title holen.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Linux]]></title><description><![CDATA[ 
+ ]]></description><link>snippets\linux.html</link><guid isPermaLink="false">Snippets/Linux.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Shopware SQL]]></title><description><![CDATA[<a class="tag" href="?query=tag:tags" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#tags</a> 
+ <br><br>[code](https://docs.shopware.com/en/shopware-6-en/tutorials-and-faq/sql-tips-tricks)
+Kopieren<br><br><a href=".?query=tag:tags" class="tag" target="_blank" rel="noopener">#tags</a><br>
+<a data-href="link" href="link" class="internal-link" target="_self" rel="noopener">link</a><br>SQL Tips &amp; Tricks<br>
+It is strongly advised that these statements should only be made with the necessary expertise.<br>
+The information provided here was tested at the time of publication of this article, but may have changed in the meantime. The execution of this tutorial is at your own risk! <br>Before you start, make a backup so that you can restore it if you run into trouble. Please note that these are adjustments of shopware and therefore the content of this tutorial is not officially supported!<br>Catalogues<br>
+Delete all products<br>
+With the following query you can delete all created products and empty the product overview completely.<br>delete pv., pt2., pt., psk., pr., pp2., pp., po., pm., pcfs., pcst., pcsap., pcs2., pcs., pct., pc., p.* from product p<br>
+left join product_category pc on p.id = pc.product_id<br>
+left join product_category_tree pct on p.id = pct.product_id<br>
+left join product_configurator_setting pcs on p.id = pcs.product_id<br>
+left join product_cross_selling pcs2 on p.id = pcs2.product_id<br>
+left join product_cross_selling_assigned_products pcsap on p.id = pcsap.product_id<br>
+left join product_cross_selling_translation pcst on pcs2.id = pcst.product_cross_selling_id<br>
+left join product_custom_field_set pcfs on p.id = pcfs.product_id<br>
+left join product_media pm on p.id = pm.product_id<br>
+left join product_option po on p.id = po.product_id<br>
+left join product_price pp on p.id = pp.product_id<br>
+left join product_property pp2 on p.id = pp2.product_id<br>
+left join product_review pr on p.id = pr.product_id<br>
+left join product_search_keyword psk on p.id = psk.product_id<br>
+left join product_tag pt on p.id = pt.product_id<br>
+left join product_translation pt2 on p.id = pt2.product_id<br>
+left join product_visibility pv on p.id = pv.product_id;<br>
+Expand code<br>
+Delete all properties<br>
+With the following query you can remove all properties.<br>delete pgt., pgot., pgo., pg. from property_group pg<br>
+join property_group_option pgo on pg.id = pgo.property_group_id<br>
+join property_group_option_translation pgot on pgo.id = pgot.property_group_option_id<br>
+join property_group_translation pgt on pg.id = pgt.property_group_id;<br>
+Delete all customer data<br>
+You can apply the following SQL queries before you go live with your store. However, make sure that you never use them in your live store. Orders with receipts or receipts should never be deleted.<br>With the following query you can remove all customer data.<br>delete cwp., cw., ct., cr., ca., c. from customer c<br>
+left join customer_address ca on c.id = ca.customer_id<br>
+left join customer_recovery cr on c.id = cr.customer_id<br>
+left join customer_tag ct ON c.id = ct.customer_id<br>
+left join customer_wishlist cw on c.id = cw.customer_id<br>
+left join customer_wishlist_product cwp on cw.id = cwp.customer_wishlist_id;<br>
+Delete all orders<br>
+You can apply the following SQL queries before you go live with your store. However, make sure that you never use them in your live store. Orders with receipts or receipts should never be deleted.<br>With the following query you can delete all orders.<br>delete ot2., ot., oli., odp., od., oc., oa., o. from order o<br>
+left join  order_address oa on o.id = oa.order_id<br>
+left join  order_customer oc on o.id = oc.order_id<br>
+left join  order_delivery od on o.id = od.order_id<br>
+left join  order_delivery_position odp on od.id = odp.order_delivery_id<br>
+left join  order_line_item oli on o.id = oli.order_id<br>
+left join  order_tag ot on o.id = ot.order_id<br>
+left join  order_transaction ot2 on o.id = ot2.order_id;<br>
+Enable inheritance for all variants<br>
+After a migration, inheritance is disabled in all variant products. To enable inheritance, only the respective property must have NULL as a value in the database.<br>With the following query all properties and additionally also the inheritance for the properties are activated:<br>UPDATE product SET<br>
+active = NULL,<br>
+tax_id = NULL,<br>
+product_manufacturer_id = NULL,<br>
+delivery_time_id = NULL,<br>
+deliveryTime = NULL,<br>
+product_media_id = NULL,<br>
+manufacturer_number = NULL,<br>
+ean = NULL,<br>
+restock_time = NULL,<br>
+is_closeout = NULL,<br>
+purchase_steps = NULL,<br>
+max_purchase = NULL,<br>
+min_purchase = NULL,<br>
+purchase_unit = NULL,<br>
+reference_unit = NULL,<br>
+shipping_free = NULL,<br>
+mark_as_topseller = NULL,<br>
+weight = NULL,<br>
+width = NULL,<br>
+height = NULL,<br>
+length = NULL,<br>
+release_date = NULL,<br>
+tag_ids = NULL,<br>
+tags = NULL<br>
+WHERE parent_id IS NOT NULL;<br>DELETE FROM product_translation WHERE product_id IN (SELECT id FROM product WHERE parent_id IS NOT NULL);<br>
+DELETE FROM product_tag WHERE product_id IN (SELECT id FROM product WHERE parent_id IS NOT NULL);<br>
+DELETE FROM product_media WHERE product_id IN (SELECT id FROM product WHERE parent_id IS NOT NULL);<br>
+DELETE FROM product_visibility WHERE product_id IN (SELECT id FROM product WHERE parent_id IS NOT NULL);<br>
+DELETE FROM product_property WHERE product_id IN (SELECT id FROM product WHERE parent_id IS NOT NULL);<br>
+Expand code<br>System / Settings<br>
+Disable non-standard extensions<br>
+With the following queries you can deactivate the extensions that are not already present when installing Shopware. This is especially useful for debugging errors, as you can quickly eliminate the influence of extensions.<br>If you use your own theme that is integrated via a plug-in, you should make sure in advance that the theme is not assigned to a sales channel. Alternatively, you may encounter problems when calling the appropriate sales channels.<br>First we create a temporary backup table. The current status of the extensions is saved in this table.<br>CREATE TABLE plugin_tmp LIKE plugin;<br>
+INSERT INTO plugin_tmp SELECT * FROM plugin;<br>
+Then you can deactivate the extensions<br>UPDATE plugin SET active= 0 WHERE (author &lt;&gt; 'shopware AG' AND author &lt;&gt; 'Shopware') OR (author IS NULL);<br>
+The original state of the extensions can be restored later as follows<br>UPDATE plugin AS p JOIN plugin_tmp AS pt ON p.id = pt.id SET p.active = pt.active;<br>
+Finally, you can delete the temporary backup table<br>DROP TABLE plugin_tmp;<br>
+Customise database collation<br>
+By default Showpare uses "utf8mb4_unicode_ci" as collation for the tables.<br>
+However, it can happen that the collation for individual tables is not (no longer) set correctly.<br>This can cause errors when comparing strings of incompatible collations or when trying to select data from columns with different collations.<br>
+In the log files this can be recognised by the following entry (possibly slightly modified):<br>SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (utf8mb4_unicode_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE)<br>
+With the following query you can check if a wrong collation is used in a table.<br>
+To do this, insert the table and database name into the query at the marked positions.<br>SELECT table_schema, table_name, column_name, character_set_name, collation_name<br>
+FROM information_schema.columns<br>
+WHERE (collation_name = 'utf8mb4_unicode_ci' or collation_name = 'utf8_general_ci ')<br>
+and table_name = '' --Tabellenname einsetzen<br>
+and table_schema = '' --Datenbanknamen einsetzen<br>
+ORDER BY table_schema, table_name,ordinal_position;<br>
+You can update the collation with one of the following two queries.<br>We recommend that you always make a full backup before making changes to the database.<br>Update of the entire database<br>ALTER DATABASE --Datenbanknamen einsetzen CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci<br>
+Update a single table<br>ALTER TABLE --Tabellenname einsetzen CONVERT TO CHARACTER SET utf8mb4 COLLATE 'utf8mb4_unicode_ci';<br>
+Restore default customer group<br>
+This restores the "default customer group" without a translation. The translations must be maintained manually in the admin.<br>Query to restore the default customer group:<br>INSERT INTO customer_group (id, display_gross, registration_active, created_at, updated_at) VALUES<br>
+(UNHEX('CFBD5018D38D41D8ADCA10D94FC8BDD6'), 1, 0, '2021-01-01 00:00:00.00', NULL);<br>
+Was this article helpful?<br>
+VERSION<br>
+6.3.3.0 or newer<br>
+CONTENTS<br>
+Catalogues<br>
+Delete all products<br>
+Delete all properties<br>
+Delete all customer data<br>
+Delete all orders<br>
+Enable inheritance for all variants<br>
+System / Settings<br>
+Disable non-standard extensions<br>
+Customise database collation<br>
+Restore default customer group]]></description><link>snippets\shopware-sql.html</link><guid isPermaLink="false">Snippets/Shopware SQL.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Shortcuts]]></title><description><![CDATA[ 
+ <br><br>
+<br>Add to Log CTRL + ALT + L
+<br>Toggle todo CTRL + ALT + SHIFT + t
+<br>Add todo CTRL + ALT + SHIFT + l
+<br>Forward todo CTRL + ALT + &lt;
+<br>Unforward todo CTRL + ALT + -
+<br>Open today  ALT + d
+]]></description><link>snippets\shortcuts.html</link><guid isPermaLink="false">Snippets/shortcuts.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Show and Filter PostType]]></title><description><![CDATA[<a class="tag" href="?query=tag:wordpress" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#wordpress</a> <a class="tag" href="?query=tag:php" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#php</a> 
+ <br><br>add_shortcode('show-list-and-filter', 'show_list_and_filter');
+
+function show_list_and_filter($atts) {
+    $atts = shortcode_atts(array(
+        'type' =&gt; '',
+        'filter' =&gt; 'product_cat',
+    ), $atts);
+
+    $args = array(
+            'post_type' =&gt; $atts['type'],
+            'numberposts' =&gt; -1
+    );
+
+    $posts = get_posts($args);
+
+//    $taxonomies = get_taxonomies(['object_type' =&gt; [$atts['type']]]);
+
+        // retrieve all available terms, including those not yet used
+        $terms    = get_terms(['taxonomy' =&gt; $atts['filter'], 'hide_empty' =&gt; true]);
+
+
+//    foreach
+    ob_start();
+    ?&gt;
+    &lt;div class="post-list"&gt;
+        &lt;div class="bg-light py-1x"&gt;
+            &lt;div class="container"&gt;
+                &lt;div class="row d-flex align-items-center"&gt;
+                    &lt;div class="col-12 col-md-6"&gt;
+                        &lt;div class="elementor-widget-container"&gt;
+                            &lt;ul class="elementor-portfolio__filters"&gt;
+                                &lt;li class="elementor-portfolio__filter elementor-active um-post-filter" data-id="all"&gt;Alle&lt;/li&gt;
+                            &lt;?php
+                            foreach ($terms as $term) {
+                                ?&gt;
+                                &lt;li class="elementor-portfolio__filter elementor-active um-post-filter" data-id="&lt;?php echo $term-&gt;slug; ?&gt;"&gt;&lt;?php echo $term-&gt;name; ?&gt;&lt;/li&gt;
+                                &lt;?php
+                            }
+                            ?&gt;
+                            &lt;/ul&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+
+        &lt;div id="NewsListeKacheln"&gt;
+            &lt;div class="container"&gt;
+                &lt;div class="quicklinks row gy-2 gx-0 g-md-3 mt-1 mt-lg-0"&gt;
+                    &lt;?php
+                    foreach ($posts as $post){
+
+                        $postTerms = get_the_terms($post-&gt;ID, $atts['filter']);
+                        $terms = '';
+                        foreach ($postTerms as $postTerm) {
+                            $terms .= $postTerm-&gt;slug . " ";
+                        }
+                        ?&gt;
+                        &lt;div class="news kacheln text-center col-md-6 col-lg-4 &lt;?php echo $terms; ?&gt;"&gt;
+                                &lt;a class="d-flex align-items-center justify-content-center" href="&lt;?php echo get_the_permalink($post-&gt;ID); ?&gt;" target="_blank"&gt;
+                                    &lt;?php echo get_the_post_thumbnail($post-&gt;ID, 'large', array('class' =&gt; 'object-fit')); ?&gt;
+                                    &lt;div class="text p-4 d-flex align-items-center justify-content-center position-absolute"&gt;
+&lt;!--                                        &lt;h4 class="my-0"&gt;--&gt;&lt;?php //echo get_the_title($post-&gt;ID); ?&gt;&lt;!--&lt;/h4&gt;--&gt;
+                                        &lt;p class="kachel-text text-center" style="display:none"&gt;
+                                            Klicken Sie hier um zum Konfigurator zu kommen. Erstellen Sie Ihren individuellen Schmuck. Wählen Sie Farbe und Größe.
+                                        &lt;/p&gt;
+                                    &lt;/div&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+
+
+                        &lt;?php
+                    }
+                    ?&gt;
+
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;script&gt;
+        jQuery('.kacheln').each(function() {
+            jQuery(this).hover(function(e) {
+                if(e.type == "mouseenter") {
+                    jQuery('.kachel-text', jQuery(this)).fadeIn();
+                }
+                if(e.type == "mouseleave") {
+                    jQuery('.kachel-text', jQuery(this)).fadeOut();
+                }
+            })
+        })
+        jQuery('.um-post-filter').each(function() {
+            jQuery(this).click(function() {
+                console.log("click")
+                let target = jQuery(this).data('id');
+                // target = "." + target;
+                if (target != 'all') {
+                    jQuery('.kacheln').each(function () {
+                        if (jQuery(this).hasClass(target)) {
+                            jQuery(this).show();
+                        } else {
+                            jQuery(this).hide();
+                        }
+                    })
+                } else {
+                    jQuery('.kacheln').each(function () {
+                        jQuery(this).show();
+                    })
+                }
+            })
+        })
+    &lt;/script&gt;
+&lt;?php
+    return ob_get_clean();
+
+}
+Kopieren<br><br><a href=".?query=tag:wordpress" class="tag" target="_blank" rel="noopener">#wordpress</a><br>
+<a href=".?query=tag:php" class="tag" target="_blank" rel="noopener">#php</a><br>
+<a data-href="link" href="link" class="internal-link" target="_self" rel="noopener">link</a>]]></description><link>snippets\show-and-filter-posttype.html</link><guid isPermaLink="false">Snippets/Show and Filter PostType.md</guid><pubDate>Mon, 24 Jun 2024 12:26:53 GMT</pubDate></item><item><title><![CDATA[Hallo]]></title><description><![CDATA[<a class="tag" href="?query=tag:tag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#tag</a> <a class="tag" href="?query=tag:noechtintag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#noechtintag</a> 
  <br><br><a href=".?query=tag:tag" class="tag" target="_blank" rel="noopener">#tag</a><br>
 <a href=".?query=tag:noechtintag" class="tag" target="_blank" rel="noopener">#noechtintag</a>]]></description><link>2024-06-24.html</link><guid isPermaLink="false">2024-06-24.md</guid><pubDate>Mon, 24 Jun 2024 12:04:07 GMT</pubDate></item><item><title><![CDATA[CodeDump]]></title><description><![CDATA[ 
  <br><br>This is where my snippets, recipes and random stuff is living... <br>
