@@ -1,17 +1,19 @@
 {
   "vaultName": "CodeDump",
-  "lastExport": 1719237759517,
+  "lastExport": 1719326984192,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager show-inline-title show-ribbon theme-dark",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
     "Attachements/canyon-8124036_1280.webp",
     "Attachements/Pasted image 20240624160203.jpg",
+    "Dailies/2024-06-25.md",
     "Recipes/cookbook.md",
     "Recipes/Spaghetti al limone.md",
     "Snippets/code_snippets/Shopware/Dump Variables TWIG.md",
     "Snippets/code_snippets/hide_button_google_maps.md",
+    "Snippets/JavaScript/Jquery Document Ready.md",
     "Snippets/Linux/Symlink erstellen.md",
     "Snippets/Linux/Tar entpacken.md",
     "Snippets/Linux/TAR packen.md",
@@ -72,9 +74,9 @@
     "Snippets/shortcuts.md",
     "Snippets/Show and Filter PostType.md",
     "Templates/Rezept.md",
-    "2024-06-24.md",
+    "Templates/Weekly.md",
+    "Weeklies/2024-W26.md",
     "index.md",
-    "Pasted image 20240624154929.jpg",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -142,12 +144,6 @@
     "lib/styles/main-styles.css"
   ],
   "fileInfo": {
-    "2024-06-24.md": {
-      "modifiedTime": 1719231567068,
-      "sourceSize": 27,
-      "exportedPath": "2024-06-24.html",
-      "dependencies": []
-    },
     "index.md": {
       "modifiedTime": 1719231567068,
       "sourceSize": 121,
@@ -155,181 +151,181 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1719237759517,
+      "modifiedTime": 1719326984192,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1719237759517,
+      "modifiedTime": 1719326984192,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1719237759517,
+      "modifiedTime": 1719326984192,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1719237759517,
+      "modifiedTime": 1719326984192,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1719237759517,
+      "modifiedTime": 1719326984192,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1719237759517,
+      "modifiedTime": 1719326984192,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1719237759517,
+      "modifiedTime": 1719326984192,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1719237759517,
+      "modifiedTime": 1719326984192,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1719237759517,
+      "modifiedTime": 1719326984192,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1719237759517,
+      "modifiedTime": 1719326984192,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1719237759517,
+      "modifiedTime": 1719326984192,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1719237759517,
+      "modifiedTime": 1719326984192,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1719237759517,
+      "modifiedTime": 1719326984192,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1719237759517,
+      "modifiedTime": 1719326984192,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1719237759517,
+      "modifiedTime": 1719326984192,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1719237759517,
+      "modifiedTime": 1719326984192,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1719237759517,
-      "sourceSize": 65409,
+      "modifiedTime": 1719326984192,
+      "sourceSize": 69949,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1719237759517,
+      "modifiedTime": 1719326984192,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1719237759517,
+      "modifiedTime": 1719326984192,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1719237759517,
+      "modifiedTime": 1719326984192,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1719237759517,
+      "modifiedTime": 1719326984192,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1719237759517,
+      "modifiedTime": 1719326984192,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1719237759517,
+      "modifiedTime": 1719326984192,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1719237759517,
+      "modifiedTime": 1719326984192,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1719237759517,
+      "modifiedTime": 1719326984192,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1719237759517,
-      "sourceSize": 6426,
+      "modifiedTime": 1719326984192,
+      "sourceSize": 6582,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1719237759517,
+      "modifiedTime": 1719326984192,
       "sourceSize": 130183,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1719237759517,
+      "modifiedTime": 1719326984192,
       "sourceSize": 41426,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1719237759517,
+      "modifiedTime": 1719326984192,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1719237759517,
+      "modifiedTime": 1719326984192,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -707,23 +703,15 @@
       "dependencies": []
     },
     "Recipes/Spaghetti al limone.md": {
-      "modifiedTime": 1719237733402,
-      "sourceSize": 1001,
+      "modifiedTime": 1719326984192,
+      "sourceSize": 965,
       "exportedPath": "recipes/spaghetti-al-limone.html",
-      "dependencies": [
-        "lib/media/pasted-image-20240624160203.jpg"
-      ]
+      "dependencies": []
     },
     "Templates/Rezept.md": {
       "modifiedTime": 1719235949021,
       "sourceSize": 155,
       "exportedPath": "templates/rezept.html",
-      "dependencies": []
-    },
-    "Pasted image 20240624154929.jpg": {
-      "modifiedTime": 1719236976904,
-      "sourceSize": 12993,
-      "exportedPath": "pasted-image-20240624154929.jpg",
       "dependencies": []
     },
     "Attachements/canyon-8124036_1280.webp": {
@@ -733,7 +721,7 @@
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1719237759517,
+      "modifiedTime": 1719326984192,
       "sourceSize": 2104,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
@@ -748,6 +736,30 @@
       "modifiedTime": 1719237733402,
       "sourceSize": 115590,
       "exportedPath": "lib/media/pasted-image-20240624160203.jpg",
+      "dependencies": []
+    },
+    "Dailies/2024-06-25.md": {
+      "modifiedTime": 1719326984192,
+      "sourceSize": 1120,
+      "exportedPath": "dailies/2024-06-25.html",
+      "dependencies": []
+    },
+    "Snippets/JavaScript/Jquery Document Ready.md": {
+      "modifiedTime": 1719326984192,
+      "sourceSize": 67,
+      "exportedPath": "snippets/javascript/jquery-document-ready.html",
+      "dependencies": []
+    },
+    "Templates/Weekly.md": {
+      "modifiedTime": 1719326984192,
+      "sourceSize": 191,
+      "exportedPath": "templates/weekly.html",
+      "dependencies": []
+    },
+    "Weeklies/2024-W26.md": {
+      "modifiedTime": 1719326984192,
+      "sourceSize": 0,
+      "exportedPath": "weeklies/2024-w26.html",
       "dependencies": []
     }
   }
